@@ -1,0 +1,1616 @@
+{
+  "search_metadata": {
+    "id": "6528b2e05119a6aa49c1af49",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/356c80af86c3ce76/6528b2e05119a6aa49c1af49.json",
+    "created_at": "2023-10-13 03:00:48 UTC",
+    "processed_at": "2023-10-13 03:00:48 UTC",
+    "google_url": "https://www.google.com/search?q=metrograph+showtimes&oq=metrograph+showtimes&uule=w+CAIQICIfTmV3IFlvcmssTmV3IFlvcmssVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/356c80af86c3ce76/6528b2e05119a6aa49c1af49.html",
+    "total_time_taken": 1.92
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "metrograph showtimes",
+    "location_requested": "New York, New York, United States",
+    "location_used": "New York,New York,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "metrograph showtimes",
+    "total_results": 57700,
+    "time_taken_displayed": 0.86,
+    "menu_items": [
+      {
+        "position": 1,
+        "title": "Today",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Metrograph+showtimes+today&uds=H4sIAAAAAAAA_-Oy5mINyU9JrBQSyU0tKcpPL0osyFAozsgvL8nMTS02ECqS8sUirlAC0mOEVQ8ALv1eFVMAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxKsJegQIDRAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Metrograph+showtimes+today"
+      },
+      {
+        "position": 2,
+        "title": "Images",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=metrograph+showtimes&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQ0pQJegQIDhAB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=metrograph+showtimes"
+      },
+      {
+        "position": 3,
+        "title": "The Eternal Daughter",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=The+Eternal+Daughter+showtimes+near+Metrograph&uds=H4sIAAAAAAAA_-OK4xIJyUhVcC1JLcpLzFFwSSxNzwCyhURyU0uK8tOLEgsyFIoz8stLMnNTiw0Yi_SwqUaoUMhLTSxS8IXrNcJqDgDh1zmkdgAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxKsJegQIDBAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Eternal+Daughter+showtimes+near+Metrograph"
+      },
+      {
+        "position": 4,
+        "title": "News",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=metrograph+showtimes&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQ0pQJegQICxAB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=metrograph+showtimes&tbm=nws"
+      },
+      {
+        "position": 5,
+        "title": "2046 film",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=2046+film+showtimes+near+Metrograph&uds=H4sIAAAAAAAA_-Py4OI0MjAxU0jLzMkVEslNLSnKTy9KLMhQKM7ILy_JzE0tNmAsUoYrQQgr5KUmFin4wjUYYdUMANFFCERgAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxKsJegUIgAEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=2046+film+showtimes+near+Metrograph"
+      },
+      {
+        "position": 6,
+        "title": "Il silenzio grande",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Il+silenzio+grande+showtimes+near+metrograph&uds=H4sIAAAAAAAA_-OK4hLyzFEozsxJzavKzFdIL0rMS0kVEslNLSnKB3IKMhSKM_LLSzJzU4sNGIt0MNUi5BXyUhOLFBA6jbCaAgDEUDtGcgAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxKsJegUIggEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Il+silenzio+grande+showtimes+near+metrograph"
+      },
+      {
+        "position": 7,
+        "title": "The Decameron 1971",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=The+Decameron+1971+showtimes+near+metrograph&uds=H4sIAAAAAAAA_-OK4hIKyUhVcElNTsxNLcrPUzC0NDcUEslNLSnKTy9KLMhQKM7ILy_JzE0tNmAs0sFUi5BXyEtNLFJA6DTCagoAyaQZiXIAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxKsJegUIgwEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Decameron+1971+showtimes+near+metrograph"
+      },
+      {
+        "position": 8,
+        "title": "La casa lobo",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=La+casa+lobo+showtimes+near+metrograph&uds=H4sIAAAAAAAA_-Py4-LxSVRITixOVMjJT8oXEslNLSnKTy9KLMhQKM7ILy_JzE0tNmAsUkNWhZBRyEtNLFJA6DHCqh8As7snp2YAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxKsJegQIfxAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=La+casa+lobo+showtimes+near+metrograph"
+      },
+      {
+        "position": 9,
+        "title": "Millennium Mambo",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Millennium+Mambo+Showtimes+near+Metrograph&uds=H4sIAAAAAAAA_-MK4xLwzczJSc3LyyzNVfBNzE3KFxLJTS0pyk8vSizIUCjOyC8vycxNLTZgLNJCV6kQDJNVyEtNLFLwheszwmoGAG8eoENuAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxKsJegUIgQEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Millennium+Mambo+Showtimes+near+Metrograph"
+      }
+    ],
+    "organic_results_state": "Results for exact spelling"
+  },
+  "showtimes": [
+    {
+      "day": "Tomorrow",
+      "movies": [
+        {
+          "name": "Boogie Nights",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Boogie+Nights&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnZtKgEqFny7Bqa5X6I5NzVYVwB_MKjLACON-CMAN47EqcR1TnU_YimDrKCtfZ_OAJIAYmdO2ALY7UhI9ePVrx3jscQyQkR62PKgpz82gRezXC2maw13YBkQ5F5AUa0ks3-v9r7s%3D&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxyZ6BAgPEBE",
+          "showing": [
+            {
+              "time": [
+                "3:15pm"
+              ],
+              "type": "(35mm)"
+            }
+          ]
+        },
+        {
+          "name": "Stage Fright",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Stage+Fright&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnXN_wWNoQIHGhqnfqWrbrlSkCbhZPGtaQ93HYJcOqmPvyj3nErHhima3PJj38yxp2LMy3t7PscscRu65BzOEB9jGi6D-nwXNqXOqYwuEeNbFNn2axgG36lrf0qhCMIe4iVlRHYk%3D&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxyZ6BAgPEBU",
+          "showing": [
+            {
+              "time": [
+                "7:45pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Ghost Dog: The Way of the Samurai",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Ghost+Dog:+The+Way+of+the+Samurai&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnaHAQCCwwCtG-gke4EcJHH1KSIAFfd5staB0fJR8j0NapxcwGnRla3A9Xc-b2cNv9VRBeyhQHjM0uYI7wpxPWsg3L5PCsEfly2x06QrgkNEmAgFDWf8tq0JfggGqqFOUXu9lk4c%3D&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxyZ6BAgPEBk",
+          "showing": [
+            {
+              "time": [
+                "8:15pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Center Stage",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Center+Stage&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXncpQ4MkvGlaJFrkaBLyUUMChYmts0VxTZpALDItFjkiZhSTe9Pguai3019JSWH1-R7o96mCZBy9yer-kW_K5dWd08bt-yobg402RuFwUeC32OmegziBfWFKstG7HQBJqGnLaZek%3D",
+          "showing": [
+            {
+              "time": [
+                "2:30pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Repo Man",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Repo+Man&si=ALGXSlaLxaZ8Sb6G-YzXl5e_VQIvek88GNWlMI5YXe-LO7widq5GAAdduLtlvb8Xjnu4A_vMHOtt0X2HwUdp9TOW7I7M6c8cvr-53zS3babwT7cEBaJnnW4mWgcjiD1DSMFtHm6ZLTNvQLu27tJQpPI7s-grA01zQ-z2Bwu1PA37HeOsbsywhhE%3D",
+          "showing": [
+            {
+              "time": [
+                "10:45pm"
+              ],
+              "type": "(35mm)"
+            }
+          ]
+        },
+        {
+          "name": "The Blue Angel",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=The+Blue+Angel&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnf11HWeCJj4MmsTuKbf3VlAVCaLm5YW3Efl3JKMdq7TPjJ8XkRvVT-V3gsNVz3C336ZziJ6d832p4g-1UTp66PBi8HP04Xou-HAwryT833-qBsOLSMHzwrjYH57hODuUh9ntJW4%3D",
+          "showing": [
+            {
+              "time": [
+                "5:30pm"
+              ],
+              "type": "(35mm)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sat",
+      "date": "Oct 14",
+      "movies": [
+        {
+          "name": "Boogie Nights",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Boogie+Nights&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnZtKgEqFny7Bqa5X6I5NzVYVwB_MKjLACON-CMAN47EqcR1TnU_YimDrKCtfZ_OAJIAYmdO2ALY7UhI9ePVrx3jscQyQkR62PKgpz82gRezXC2maw13YBkQ5F5AUa0ks3-v9r7s%3D",
+          "showing": [
+            {
+              "time": [
+                "2:20pm"
+              ],
+              "type": "(35mm)"
+            }
+          ]
+        },
+        {
+          "name": "Ghost Dog: The Way of the Samurai",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Ghost+Dog:+The+Way+of+the+Samurai&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnaHAQCCwwCtG-gke4EcJHH1KSIAFfd5staB0fJR8j0NapxcwGnRla3A9Xc-b2cNv9VRBeyhQHjM0uYI7wpxPWsg3L5PCsEfly2x06QrgkNEmAgFDWf8tq0JfggGqqFOUXu9lk4c%3D",
+          "showing": [
+            {
+              "time": [
+                "10:45pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cape Fear",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Cape+Fear&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnehQoFFGiD6xqlIfVioHLD3eN1s1XEqA1uyIhDYhoBnhIdZrNZMW0FlbnF-3EjBLkY1LISQ5LkjfaOJmXWHAkFuSs7M1i8rF24uns-NIqWcsAUCBsf_LEPCkX6yrtEtpWeyjHWw%3D",
+          "showing": [
+            {
+              "time": [
+                "10:40pm"
+              ],
+              "type": "(35mm)"
+            }
+          ]
+        },
+        {
+          "name": "The Blue Angel",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=The+Blue+Angel&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnf11HWeCJj4MmsTuKbf3VlAVCaLm5YW3Efl3JKMdq7TPjJ8XkRvVT-V3gsNVz3C336ZziJ6d832p4g-1UTp66PBi8HP04Xou-HAwryT833-qBsOLSMHzwrjYH57hODuUh9ntJW4%3D",
+          "showing": [
+            {
+              "time": [
+                "8:15pm"
+              ],
+              "type": "(35mm)"
+            }
+          ]
+        },
+        {
+          "name": "This House",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=This+House&si=ALGXSlbAe7j-sezsJ-eIdG4eX0Q97AzWoeceRPHvnRamKvXtaa8kuLCOk08tCSLGRVdYONdDkCq837CD3JZcKFeZxbX-nrCfalyl9PoGksIyqcKPt8fLbXaAW5MZNkpvHx9hXBSfNcEPq3K8VIvgIWZb0P1jazGA4tjqulN1D38hdTZHNoN7WIo%3D",
+          "showing": [
+            {
+              "time": [
+                "4:00pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Three Sisters",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Three+Sisters&si=ALGXSlbAe7j-sezsJ-eIdG4eX0Q97AzWoeceRPHvnRamKvXtae_MbqLzXoo8PO8gNrkpW97bDj8YSqWfenlXJh8FfZy055g4edaO1WbHVDsaxgS2NDe_m9Ezr7YZEaZqFlJu_FNlu-cjhq_GJQT-DLe___h-kf2bwl6qGSx6bivw_vOFZIY5CWw%3D",
+          "showing": [
+            {
+              "time": [
+                "1:00pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Close-Up",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Close-Up&si=ALGXSlYtZggS3pSSFs9deiB5sRh2oNqYikNDxhP8SGJW78mHxivmeAzUfmpxwGlhXr6uYFs1ZpuI5LEIy1wW_nAfFKP1TfoLR-TMhiMJGYlToNMzeHArvGma8vrBSkGtM7ZEEr0IM9Ztfs1cxjXTJhoScyUy91SGDcDMphL3WL6Yr7WmCPVf3V0%3D",
+          "showing": [
+            {
+              "time": [
+                "12:10pm"
+              ],
+              "type": "(35mm)"
+            }
+          ]
+        },
+        {
+          "name": "Tale of Cinema",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Tale+of+Cinema&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnetC-q5nY0PldlO8vRaUm8xdNdmwzGFsRynCARwF7Ehi8fZ_wWUkoauTRo13CjVVnFnKtKH2yKAoyEqFiNvKdaJ32iNzyq1Bcfxta5kPDVoZ2CZQ7iR-ow0-lyENbgetajp8CIo%3D",
+          "showing": [
+            {
+              "time": [
+                "8:10pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Korczak",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Korczak&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnUBRlNkvxzsVP91sWcDNEs_leEyJ79B3GJz_2xRJHdKk7aoukkqeCiC6KBcEbu4PUS1KlEPm1oZD9tryzntb2NvkQSduu7EH82xw04G_HsnyoC1yffOKq5F42B5EIEv971luB5M%3D",
+          "showing": [
+            {
+              "time": [
+                "5:45pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sun",
+      "date": "Oct 15",
+      "movies": [
+        {
+          "name": "Center Stage",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Center+Stage&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXncpQ4MkvGlaJFrkaBLyUUMChYmts0VxTZpALDItFjkiZhSTe9Pguai3019JSWH1-R7o96mCZBy9yer-kW_K5dWd08bt-yobg402RuFwUeC32OmegziBfWFKstG7HQBJqGnLaZek%3D",
+          "showing": [
+            {
+              "time": [
+                "1:40pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Repo Man",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Repo+Man&si=ALGXSlaLxaZ8Sb6G-YzXl5e_VQIvek88GNWlMI5YXe-LO7widq5GAAdduLtlvb8Xjnu4A_vMHOtt0X2HwUdp9TOW7I7M6c8cvr-53zS3babwT7cEBaJnnW4mWgcjiD1DSMFtHm6ZLTNvQLu27tJQpPI7s-grA01zQ-z2Bwu1PA37HeOsbsywhhE%3D",
+          "showing": [
+            {
+              "time": [
+                "7:20pm"
+              ],
+              "type": "(35mm)"
+            }
+          ]
+        },
+        {
+          "name": "Cape Fear",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Cape+Fear&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnehQoFFGiD6xqlIfVioHLD3eN1s1XEqA1uyIhDYhoBnhIdZrNZMW0FlbnF-3EjBLkY1LISQ5LkjfaOJmXWHAkFuSs7M1i8rF24uns-NIqWcsAUCBsf_LEPCkX6yrtEtpWeyjHWw%3D",
+          "showing": [
+            {
+              "time": [
+                "9:30pm"
+              ],
+              "type": "(35mm)"
+            }
+          ]
+        },
+        {
+          "name": "Our House",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Our+House&si=ALGXSlbAe7j-sezsJ-eIdG4eX0Q97AzWoeceRPHvnRamKvXtacjSLhJ_wQGIlcNDGFlJkVEnx51DKh7JCwQHHU52oWrGzEu-U63B6OOmERNXRNd5iN73rXqwss7qlrkFssITu2UDoJ5fzB_fpTiby7dufJS8jt3xggL7PWDN0RO3De41eSQQlFE%3D",
+          "showing": [
+            {
+              "time": [
+                "7:30pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Tale of Cinema",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Tale+of+Cinema&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnetC-q5nY0PldlO8vRaUm8xdNdmwzGFsRynCARwF7Ehi8fZ_wWUkoauTRo13CjVVnFnKtKH2yKAoyEqFiNvKdaJ32iNzyq1Bcfxta5kPDVoZ2CZQ7iR-ow0-lyENbgetajp8CIo%3D",
+          "showing": [
+            {
+              "time": [
+                "5:30pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Korczak",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Korczak&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnUBRlNkvxzsVP91sWcDNEs_leEyJ79B3GJz_2xRJHdKk7aoukkqeCiC6KBcEbu4PUS1KlEPm1oZD9tryzntb2NvkQSduu7EH82xw04G_HsnyoC1yffOKq5F42B5EIEv971luB5M%3D",
+          "showing": [
+            {
+              "time": [
+                "12:00pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Bitter Money",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Bitter+Money&si=ALGXSlbAe7j-sezsJ-eIdG4eX0Q97AzWoeceRPHvnRamKvXtadFiHU41u_87A-DlTId5GWDBZnC-YU_ImrEPGVJQFPC_j1lFh5xla4zOxCKr-w2YnFhdSL9X9st-HUbrv5BrqaN7_ouW3CTwTu0mcnGcuZ64hfnyhphtsJyQWIrl-hmxd65LCWs%3D",
+          "showing": [
+            {
+              "time": [
+                "2:30pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Mon",
+      "date": "Oct 16",
+      "movies": [
+        {
+          "name": "Boogie Nights",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Boogie+Nights&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnZtKgEqFny7Bqa5X6I5NzVYVwB_MKjLACON-CMAN47EqcR1TnU_YimDrKCtfZ_OAJIAYmdO2ALY7UhI9ePVrx3jscQyQkR62PKgpz82gRezXC2maw13YBkQ5F5AUa0ks3-v9r7s%3D",
+          "showing": [
+            {
+              "time": [
+                "6:40pm"
+              ],
+              "type": "(35mm)"
+            }
+          ]
+        },
+        {
+          "name": "Stage Fright",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Stage+Fright&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnXN_wWNoQIHGhqnfqWrbrlSkCbhZPGtaQ93HYJcOqmPvyj3nErHhima3PJj38yxp2LMy3t7PscscRu65BzOEB9jGi6D-nwXNqXOqYwuEeNbFNn2axgG36lrf0qhCMIe4iVlRHYk%3D",
+          "showing": [
+            {
+              "time": [
+                "9:50pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Ghost Dog: The Way of the Samurai",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Ghost+Dog:+The+Way+of+the+Samurai&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnaHAQCCwwCtG-gke4EcJHH1KSIAFfd5staB0fJR8j0NapxcwGnRla3A9Xc-b2cNv9VRBeyhQHjM0uYI7wpxPWsg3L5PCsEfly2x06QrgkNEmAgFDWf8tq0JfggGqqFOUXu9lk4c%3D",
+          "showing": [
+            {
+              "time": [
+                "9:45pm"
+              ],
+              "type": "(35mm)"
+            }
+          ]
+        },
+        {
+          "name": "The Blue Angel",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=The+Blue+Angel&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnf11HWeCJj4MmsTuKbf3VlAVCaLm5YW3Efl3JKMdq7TPjJ8XkRvVT-V3gsNVz3C336ZziJ6d832p4g-1UTp66PBi8HP04Xou-HAwryT833-qBsOLSMHzwrjYH57hODuUh9ntJW4%3D",
+          "showing": [
+            {
+              "time": [
+                "4:30pm"
+              ],
+              "type": "(35mm)"
+            }
+          ]
+        },
+        {
+          "name": "Three Sisters",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Three+Sisters&si=ALGXSlbAe7j-sezsJ-eIdG4eX0Q97AzWoeceRPHvnRamKvXtae_MbqLzXoo8PO8gNrkpW97bDj8YSqWfenlXJh8FfZy055g4edaO1WbHVDsaxgS2NDe_m9Ezr7YZEaZqFlJu_FNlu-cjhq_GJQT-DLe___h-kf2bwl6qGSx6bivw_vOFZIY5CWw%3D",
+          "showing": [
+            {
+              "time": [
+                "6:45pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Tue",
+      "date": "Oct 17",
+      "movies": [
+        {
+          "name": "Center Stage",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Center+Stage&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXncpQ4MkvGlaJFrkaBLyUUMChYmts0VxTZpALDItFjkiZhSTe9Pguai3019JSWH1-R7o96mCZBy9yer-kW_K5dWd08bt-yobg402RuFwUeC32OmegziBfWFKstG7HQBJqGnLaZek%3D",
+          "showing": [
+            {
+              "time": [
+                "3:15pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cape Fear",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Cape+Fear&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnehQoFFGiD6xqlIfVioHLD3eN1s1XEqA1uyIhDYhoBnhIdZrNZMW0FlbnF-3EjBLkY1LISQ5LkjfaOJmXWHAkFuSs7M1i8rF24uns-NIqWcsAUCBsf_LEPCkX6yrtEtpWeyjHWw%3D",
+          "showing": [
+            {
+              "time": [
+                "9:45pm"
+              ],
+              "type": "(35mm)"
+            }
+          ]
+        },
+        {
+          "name": "This House",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=This+House&si=ALGXSlbAe7j-sezsJ-eIdG4eX0Q97AzWoeceRPHvnRamKvXtaa8kuLCOk08tCSLGRVdYONdDkCq837CD3JZcKFeZxbX-nrCfalyl9PoGksIyqcKPt8fLbXaAW5MZNkpvHx9hXBSfNcEPq3K8VIvgIWZb0P1jazGA4tjqulN1D38hdTZHNoN7WIo%3D",
+          "showing": [
+            {
+              "time": [
+                "6:15pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Our House",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Our+House&si=ALGXSlbAe7j-sezsJ-eIdG4eX0Q97AzWoeceRPHvnRamKvXtacjSLhJ_wQGIlcNDGFlJkVEnx51DKh7JCwQHHU52oWrGzEu-U63B6OOmERNXRNd5iN73rXqwss7qlrkFssITu2UDoJ5fzB_fpTiby7dufJS8jt3xggL7PWDN0RO3De41eSQQlFE%3D",
+          "showing": [
+            {
+              "time": [
+                "8:00pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Close-Up",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Close-Up&si=ALGXSlYtZggS3pSSFs9deiB5sRh2oNqYikNDxhP8SGJW78mHxivmeAzUfmpxwGlhXr6uYFs1ZpuI5LEIy1wW_nAfFKP1TfoLR-TMhiMJGYlToNMzeHArvGma8vrBSkGtM7ZEEr0IM9Ztfs1cxjXTJhoScyUy91SGDcDMphL3WL6Yr7WmCPVf3V0%3D",
+          "showing": [
+            {
+              "time": [
+                "4:30pm"
+              ],
+              "type": "(35mm)"
+            }
+          ]
+        },
+        {
+          "name": "Paris, Texas",
+          "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Paris,+Texas&si=ALGXSlbN3NAf_ibe5WH3hQJ62dvC7PhXqXOQLMr95kzXQvrXnax0YRKLK__LjXDWYVXa-SXNmWMTvkvz3QMEgc-He3YALrUGl744lBHCefhCFb-YWlh7J-IiWXVgp9BRAEBZnuV2CsuF0toPAeNqvjJI7S0pCp4PwF_rmSPBLffSsOdzfILV5qg%3D",
+          "showing": [
+            {
+              "time": [
+                "9:20pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Metrograph",
+    "thumbnail": "https://serpapi.com/searches/6528b2e05119a6aa49c1af49/images/7d0152eea009dc3478b0dca027c3f1b0a1ccf621f27f0639f62c17a8b0d9e418.png",
+    "type": "Movie theater",
+    "kgmid": "/g/11fmc6r_l9",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11fmc6r_l9&hl=en-US&hl=Metrograph",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11fmc6r_l9&location=New+York%2C+New+York%2C+United+States&q=metrograph+showtimes",
+    "tabs": [
+      {
+        "text": "Today",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Metrograph+showtimes+today&uds=H4sIAAAAAAAA_-Oy5mINyU9JrBQSyU0tKcpPL0osyFAozsgvL8nMTS02ECqS8sUirlAC0mOEVQ8ALv1eFVMAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxKsJegQIDRAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=Metrograph+showtimes+today"
+      },
+      {
+        "text": "The Eternal Daughter",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=The+Eternal+Daughter+showtimes+near+Metrograph&uds=H4sIAAAAAAAA_-OK4xIJyUhVcC1JLcpLzFFwSSxNzwCyhURyU0uK8tOLEgsyFIoz8stLMnNTiw0Yi_SwqUaoUMhLTSxS8IXrNcJqDgDh1zmkdgAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxKsJegQIDBAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=The+Eternal+Daughter+showtimes+near+Metrograph"
+      },
+      {
+        "text": "2046 film",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=2046+film+showtimes+near+Metrograph&uds=H4sIAAAAAAAA_-Py4OI0MjAxU0jLzMkVEslNLSnKTy9KLMhQKM7ILy_JzE0tNmAsUoYrQQgr5KUmFin4wjUYYdUMANFFCERgAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxKsJegUIgAEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=2046+film+showtimes+near+Metrograph"
+      },
+      {
+        "text": "Il silenzio grande",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Il+silenzio+grande+showtimes+near+metrograph&uds=H4sIAAAAAAAA_-OK4hLyzFEozsxJzavKzFdIL0rMS0kVEslNLSnKB3IKMhSKM_LLSzJzU4sNGIt0MNUi5BXyUhOLFBA6jbCaAgDEUDtGcgAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxKsJegUIggEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=Il+silenzio+grande+showtimes+near+metrograph"
+      },
+      {
+        "text": "The Decameron 1971",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=The+Decameron+1971+showtimes+near+metrograph&uds=H4sIAAAAAAAA_-OK4hIKyUhVcElNTsxNLcrPUzC0NDcUEslNLSnKTy9KLMhQKM7ILy_JzE0tNmAs0sFUi5BXyEtNLFJA6DTCagoAyaQZiXIAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxKsJegUIgwEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=The+Decameron+1971+showtimes+near+metrograph"
+      },
+      {
+        "text": "La casa lobo",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=La+casa+lobo+showtimes+near+metrograph&uds=H4sIAAAAAAAA_-Py4-LxSVRITixOVMjJT8oXEslNLSnKTy9KLMhQKM7ILy_JzE0tNmAsUkNWhZBRyEtNLFJA6DHCqh8As7snp2YAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxKsJegQIfxAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=La+casa+lobo+showtimes+near+metrograph"
+      },
+      {
+        "text": "Millennium Mambo",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Millennium+Mambo+Showtimes+near+Metrograph&uds=H4sIAAAAAAAA_-MK4xLwzczJSc3LyyzNVfBNzE3KFxLJTS0pyk8vSizIUCjOyC8vycxNLTZgLNJCV6kQDJNVyEtNLFLwheszwmoGAG8eoENuAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxKsJegUIgQEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=Millennium+Mambo+Showtimes+near+Metrograph"
+      }
+    ],
+    "place_id": "ChIJ58HssClawokRefq6VNIOrlY",
+    "website": "http://metrograph.com/",
+    "directions": "https://www.google.com/maps/dir//metrograph+showtimes/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c25a29b0ecc1e7:0x56ae0ed254bafa79?sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQ9Rd6BAhnEAA&hl=en&gl=us",
+    "description": "State-of-the-art cinema with an upscale American eatery & two bars evokes old-time Hollywood haunts.",
+    "local_map": {
+      "image": "https://serpapi.com/searches/6528b2e05119a6aa49c1af49/images/7d0152eea009dc3478b0dca027c3f1b0c4eebdc899ad9b0c13c299d831e352be.gif",
+      "link": "https://www.google.com/maps/place/Metrograph/@40.715143,-73.9911467,15z/data=!4m2!3m1!1s0x0:0x56ae0ed254bafa79?sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQ_BJ6BAhhEAA&hl=en&gl=us",
+      "gps_coordinates": {
+        "latitude": 40.715143,
+        "longitude": -73.9911467,
+        "altitude": 15
+      }
+    },
+    "rating": 4.6,
+    "review_count": 1050,
+    "price": "$$$",
+    "address": "7 Ludlow St, New York, NY 10002",
+    "address_links": [
+      {
+        "text": "Address",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=metrograph+address&ludocid=6245946029736917625&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQ6BN6BAhgEAI"
+      }
+    ],
+    "menu": "metrograph.com",
+    "menu_links": [
+      {
+        "text": "metrograph.com",
+        "link": "http://metrograph.com/eat-drink/"
+      }
+    ],
+    "phone": "(212) 660-0312",
+    "phone_links": [
+      {
+        "text": "Phone",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=metrograph+phone&ludocid=6245946029736917625&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQ6BN6BAhSEAI"
+      }
+    ],
+    "popular_times": {
+      "live": {
+        "time": "11 PM",
+        "info": "Usually not too busy"
+      },
+      "graph_results": {
+        "monday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not busy",
+            "busyness_score": 14
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not busy",
+            "busyness_score": 19
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 26
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 30
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 24
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 28
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 35
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 51
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 51
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "11 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 35
+          }
+        ],
+        "tuesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not busy",
+            "busyness_score": 17
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not busy",
+            "busyness_score": 19
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not busy",
+            "busyness_score": 17
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 23
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 32
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 33
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 52
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 55
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 51
+          },
+          {
+            "time": "11 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          }
+        ],
+        "wednesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 20
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not busy",
+            "busyness_score": 15
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not busy",
+            "busyness_score": 18
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not busy",
+            "busyness_score": 19
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 20
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 26
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 36
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 37
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "11 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          }
+        ],
+        "thursday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not busy",
+            "busyness_score": 18
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not busy",
+            "busyness_score": 12
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not busy",
+            "busyness_score": 14
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not busy",
+            "busyness_score": 18
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 32
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 43
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 51
+          },
+          {
+            "time": "11 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 42
+          }
+        ],
+        "friday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 20
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not busy",
+            "busyness_score": 14
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not busy",
+            "busyness_score": 18
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 26
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 33
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 50
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 55
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 71
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 80
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 98
+          },
+          {
+            "time": "11 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 100
+          }
+        ],
+        "saturday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 32
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 44
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 53
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 60
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 67
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 73
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 82
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 91
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 94
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 87
+          },
+          {
+            "time": "11 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 71
+          }
+        ],
+        "sunday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 28
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 59
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 63
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 62
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 60
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 55
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 52
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "11 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 34
+          }
+        ]
+      }
+    },
+    "merchant_description": "`Metrograph is a state-of-the-art cinema with an upscale American eatery & two bars that evokes old-time Hollywood haunts. The Metrograph Commissary, comprised of a lobby bar, restaurant, restaurant bar, and private dining room, is designed to be a welcoming place for New York's thriving community of filmmakers and moviegoers. The menu features seasonal, responsibly sourced items and vegan, gluten-free, and dairy-free options. The Metrograph Commissary is inspired by the studio eateries from Hollywood's golden age, where stars would enjoy their meals alongside their producers, crews, and stagehands.`",
+    "user_reviews": [
+      {
+        "summary": "Cosy theatre with comfy seats and high quality equipment",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s103456097740883586010!2s0x89c25a29b0ecc1e7:0x56ae0ed254bafa79?sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQv_QBegQIThAa",
+        "user": {
+          "name": "Ana Jijieshvili",
+          "link": "https://www.google.com/maps/contrib/103456097740883586010?hl=en-US&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQwPQBegQIThAZ",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUAor37zcYXJhBfCp-wO7zxrEesHOwhhCTnRyVy2-qwKpM=s40-w40-c-h40-rp-ba3-br100"
+        }
+      },
+      {
+        "summary": "Great food, great service great atmosphere and we will be back for sure.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s116679983913963326362!2s0x89c25a29b0ecc1e7:0x56ae0ed254bafa79?sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQv_QBegQIThAe",
+        "user": {
+          "name": "Wil Johnson",
+          "link": "https://www.google.com/maps/contrib/116679983913963326362?hl=en-US&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQwPQBegQIThAd",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXqjJwflbSpHj3A4-kekWzvwZMyIPuNo5ilfZPjhUnwgao=s40-w40-c-h40-rp-ba4-br100"
+        }
+      },
+      {
+        "summary": "Great drinks, coolest bartenders & had few appetizers.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s114290696883181775441!2s0x89c25a29b0ecc1e7:0x56ae0ed254bafa79?sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQv_QBegQIThAi",
+        "user": {
+          "name": "RAM IMAGERY",
+          "link": "https://www.google.com/maps/contrib/114290696883181775441?hl=en-US&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQwPQBegQIThAh",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXgaolXDn3MYZMj98y-DwMou8YFV2VzZoS2tQZokRpxYNcm=s40-w40-c-h40-rp-ba7-br100"
+        }
+      }
+    ],
+    "unclaimed_listing": true,
+    "events": [
+      {
+        "name": "Join ACE for a screening of Ang Lee’s Hulk followed by a Discussion with Editor Tim Squyres, ACE, and VFX editor Gary Levy, ACE",
+        "date": "Sun, Oct 15",
+        "time": "5:15 PM",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=join+ace+for+a+screening+of+ang+lee%E2%80%99s+hulk+followed+by+a+discussion+with+editor+tim+squyres,+ace,+and+vfx+editor+gary+levy,+ace,+metrograph,+october+15&stick=H4sIAAAAAAAAAD2NTW4CMQxG1QUSGyTUE1hIbBDSdCqGauYyyEmcmUAmpkkmEFa9BtserSdpUH82tj_5-Xk-f15UfVXXepR7f7Dt6icmcdu5lI-b9Ul2lWWJ0bD7H7rpLHk0rgdK5GIQy2aP9ELqtdkJ1PjWfs7uT0c2DlASaPaAEKQnco8j1oClWaKvj3uAYbKnwljLF1IgcmGVCXIKobyCi4kDkDKxSKIZIbxP2VPYPsylOAVJX_-AHn0u3pR_1yNFz73H87AFlpEFeaibbzqT0Jj2AAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQri56BAhfEAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=join+ace+for+a+screening+of+ang+lee%E2%80%99s+hulk+followed+by+a+discussion+with+editor+tim+squyres%2C+ace%2C+and+vfx+editor+gary+levy%2C+ace%2C+metrograph%2C+october+15&stick=H4sIAAAAAAAAAD2NTW4CMQxG1QUSGyTUE1hIbBDSdCqGauYyyEmcmUAmpkkmEFa9BtserSdpUH82tj_5-Xk-f15UfVXXepR7f7Dt6icmcdu5lI-b9Ul2lWWJ0bD7H7rpLHk0rgdK5GIQy2aP9ELqtdkJ1PjWfs7uT0c2DlASaPaAEKQnco8j1oClWaKvj3uAYbKnwljLF1IgcmGVCXIKobyCi4kDkDKxSKIZIbxP2VPYPsylOAVJX_-AHn0u3pR_1yNFz73H87AFlpEFeaibbzqT0Jj2AAAA"
+      }
+    ],
+    "events_link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=metrograph+events&stick=H4sIAAAAAAAAAOPgEOLVT9c3NEzLTTYris-xVELlaqlmJ1vp5-QnJ5Zk5ufBGValBcn5uZl56QqpZal5JcWLWAVzU0uK8tOLEgsyoGI7WBkByJdo5F4AAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQMSgAegQIXxAB",
+    "events_stick": "H4sIAAAAAAAAAOPgEOLVT9c3NEzLTTYris-xVELlaqlmJ1vp5-QnJ5Zk5ufBGValBcn5uZl56QqpZal5JcWLWAVzU0uK8tOLEgsyoGI7WBkByJdo5F4AAAA",
+    "profiles": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/metrograph/?lang=ga",
+        "image": "https://ssl.gstatic.com/kpui/social/twitter_32x32.png"
+      },
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/metrograph/",
+        "image": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png"
+      },
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/metrographNYC/",
+        "image": "https://ssl.gstatic.com/kpui/social/fb_32x32.png"
+      },
+      {
+        "name": "TikTok",
+        "link": "https://www.tiktok.com/@metrograph.nyc",
+        "image": "https://ssl.gstatic.com/kpui/social/tiktok_32x32.png"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/metrograph",
+        "image": "https://ssl.gstatic.com/kpui/social/linkedin_32x32.png"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Film Forum",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Film+Forum&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stJgDEVd7MuzuQkDdBXuXZ1B7auySein8HwdlOMkmHnTB36n-RMDtzmthUtZ8w7UAqrSHGNQvlUybK25ptnGW2dtKK5l3yU1Q1cvkHQowcR3iA_w2qyle29VTKPzJ80KXZmWZ1503rveg7KU8y-VL_6dHZ32w2UN7pCK9Rl34rAryGf9FzHfPpyfl1thZ5LNrw0jlvQj3CJPfaxw4Pnnf-rj_tZPDBR0rliu1E--r71i26JZQRiY4LaEU5q3Hu_DA45mEvsI%3D&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxA16BAhkEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=Film+Forum&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stJgDEVd7MuzuQkDdBXuXZ1B7auySein8HwdlOMkmHnTB36n-RMDtzmthUtZ8w7UAqrSHGNQvlUybK25ptnGW2dtKK5l3yU1Q1cvkHQowcR3iA_w2qyle29VTKPzJ80KXZmWZ1503rveg7KU8y-VL_6dHZ32w2UN7pCK9Rl34rAryGf9FzHfPpyfl1thZ5LNrw0jlvQj3CJPfaxw4Pnnf-rj_tZPDBR0rliu1E--r71i26JZQRiY4LaEU5q3Hu_DA45mEvsI%3D",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipP_UM_AoncxOuGsUQeDTZuStbE95gZviIl6132j=w72-h96-k-no"
+      },
+      {
+        "name": "IFC Center",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=IFC+Center&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stL-v8MiDOB_teyUZ_cBSJCWarK4T3PWPFJxiwOuBbBFGyAXnuuivIPGZ30FZKUSPFeB0s4zGOVnePPvTudjtPNFggQEr2fMkzpS-FHwJ9fxtOsxhKygrvKu9U-s0iNTSCGJBGyrmLsAQy3dH-LiRDa0xFt1PJ70vXY7BZ6Xhi1bh_mX-CC3vLxXIATIuRlV0ybyCaQJ2nZJuUGoraueReCKbV4B8C-3_DeGTWpLYd-lZ519s_B9pgQhhY6tCA1d__jP3dq4%3D&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxA16BAhkEAc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=IFC+Center&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stL-v8MiDOB_teyUZ_cBSJCWarK4T3PWPFJxiwOuBbBFGyAXnuuivIPGZ30FZKUSPFeB0s4zGOVnePPvTudjtPNFggQEr2fMkzpS-FHwJ9fxtOsxhKygrvKu9U-s0iNTSCGJBGyrmLsAQy3dH-LiRDa0xFt1PJ70vXY7BZ6Xhi1bh_mX-CC3vLxXIATIuRlV0ybyCaQJ2nZJuUGoraueReCKbV4B8C-3_DeGTWpLYd-lZ519s_B9pgQhhY6tCA1d__jP3dq4%3D",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOhNREHgju67Xs0Vp9UbLtIpyzzsG1lv7XIwDNw=w96-h72-k-no"
+      },
+      {
+        "name": "Quad Cinema",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Quad+Cinema&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFFFE4VGUrlsC5l4JtjU807Mj6CSJmFdoN0ogG3ecq7Wk_FMtvxrHAEWKw4S1-bctprWyXzyPiz3HR85NmMNWA18BACxqqsaR9-Zpp7px-cTUoo_RrNLQ_IHUdLqOypn0dvcNmXI9ZJ3M8nvFm9EPeLNZZOpPvKCafUigQufOCE_Q9xrkllPPr6g8ys0SdXZFK-_urTV9j2VmAoMNSWEHB4WlHa4SDLNLfObw3nO5ntgPRLQ5hlIgWMAsrQ3RX7-IhdJxfEMcvAbqtEOPEkMZtYo-u5nf&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxA16BAhkEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=Quad+Cinema&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFFFE4VGUrlsC5l4JtjU807Mj6CSJmFdoN0ogG3ecq7Wk_FMtvxrHAEWKw4S1-bctprWyXzyPiz3HR85NmMNWA18BACxqqsaR9-Zpp7px-cTUoo_RrNLQ_IHUdLqOypn0dvcNmXI9ZJ3M8nvFm9EPeLNZZOpPvKCafUigQufOCE_Q9xrkllPPr6g8ys0SdXZFK-_urTV9j2VmAoMNSWEHB4WlHa4SDLNLfObw3nO5ntgPRLQ5hlIgWMAsrQ3RX7-IhdJxfEMcvAbqtEOPEkMZtYo-u5nf",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNWGflHLMF5hWaL2M-fZbd3vs9tatziRYRgw6JY=w96-h72-k-no"
+      },
+      {
+        "name": "The Paris Theater",
+        "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=The+Paris+Theater&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFIzy2rgmF40zdhAul7YS1kxOOfePQfmJcdi6scYIeEZc_WCO1vIAKdRaTRgEeOwAJTUGLj2UCcLR_Cm8014PqvOvxTGpbwSclClJNvGosSKsyk3flqyA1DKBSzm9NrIbCeJHCw8HHpZ7sz1Qlr3mlUWjuyFdhevo3e5mdcKVVUQtYfRhEqWEnvVu7ugeI3GG-YEAht5YrzrpjDAQkBz-j5KUpQTheOxNiC1kOLm6hHxmqqoaC2Mtp1-0ruqTvoaq1BhMFJvQuDc7u_M1znu0hq82hmbU&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQxA16BAhkEAs",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=The+Paris+Theater&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFIzy2rgmF40zdhAul7YS1kxOOfePQfmJcdi6scYIeEZc_WCO1vIAKdRaTRgEeOwAJTUGLj2UCcLR_Cm8014PqvOvxTGpbwSclClJNvGosSKsyk3flqyA1DKBSzm9NrIbCeJHCw8HHpZ7sz1Qlr3mlUWjuyFdhevo3e5mdcKVVUQtYfRhEqWEnvVu7ugeI3GG-YEAht5YrzrpjDAQkBz-j5KUpQTheOxNiC1kOLm6hHxmqqoaC2Mtp1-0ruqTvoaq1BhMFJvQuDc7u_M1znu0hq82hmbU",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMeA9ZUEw6VXcXV6KjqVCWczeNgvT-buFqklTOI=w72-h96-k-no"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Metrograph&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzLTTYris-xVELlagkGZ6aklidWFvulVpQEl6QWFC9i5fJNLSnKTy9KLMjYwcoIAC9OciNDAAAA&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQMSgAegQIZBAB",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NEzLTTYris-xVELlagkGZ6aklidWFvulVpQEl6QWFC9i5fJNLSnKTy9KLMjYwcoIAC9OciNDAAAA"
+  },
+  "related_questions": [
+    {
+      "question": "Are hats allowed in movie theaters?",
+      "snippet": "Please note that masks, hats, helmets that cover the face, and face painting are not allowed within the theatre or auditoriums.",
+      "title": "Learn About Our Costume Policy | Cinemark Theatres",
+      "link": "https://www.cinemark.com/about-cinemark/theatre-policies/costume-policy/#:~:text=Please%20note%20that%20masks%2C%20hats,within%20the%20theatre%20or%20auditoriums.",
+      "displayed_link": "https://www.cinemark.com › theatre-policies › costume-p...",
+      "thumbnail": "https://serpapi.com/searches/6528b2e05119a6aa49c1af49/images/a6649b2aa827a5aaf19cf0a58a8133630277284a2053b1f0ed27288c6d8737ec.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJFdEtWbU5DWkVGSk16VkhVM1ptVW1ORk5tSkhablEzYmw5Q2RqUkpXVXRPZERKcFlXMHliMWR5VlV0MFlXcDVlaTFoYzFBeFZVSTRiVFl4VVZsM2JuQnJZVzFTRWhZMFRFbHZXbUY2WkVoTU4ycHJVRWxRZW5BdFlVTkJHaUpCU25kckxUaG1kVjl5VVVkd2VqWlNYM0J0VW1kS1RYRTJVRmRwWHpGTWR6aDMiLCJmY3YiOiIzIiwiZWkiOiI0TElvWmF6ZEhMN2prUElQenAtYUNBIiwicWMiOiJDaFJ0WlhSeWIyZHlZWEJvSUhOb2IzZDBhVzFsY3hBQWZVV2JNejgiLCJxdWVzdGlvbiI6IkFyZSBoYXRzIGFsbG93ZWQgaW4gbW92aWUgdGhlYXRlcnM/IiwibGsiOiJHaUpoY21VZ2FHRjBjeUJoYkd4dmQyVmtJR2x1SUcxdmRtbGxJSFJvWldGMFpYSnoiLCJicyI6ImMtUFM0RkoyTEVwVnlFZ3NLVlpJek1uSkwwOU5VY2pNVThqTkw4dE1WU2pKU0Uwc1NTMHF0cGZZNmNvbHp5WGxXUXdTQWlwUFZNaE5MU25LVHk5S0xNaFFTQ3dvc0pmWXJjeWx5Q1VUbnBHdmtGLWVWNnpnaTVBT2dSaGlMOUZRd21YSXBSTU9OaUE1TVVfQlU2RThzU1E1QTJoZFNtcEJLcERJSzRIWVd3eHlnVi1rczczRWUyY0JSZ0EiLCJpZCI6ImZjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJFdEtWbU5DWkVGSk16VkhVM1ptVW1ORk5tSkhablEzYmw5Q2RqUkpXVXRPZERKcFlXMHliMWR5VlV0MFlXcDVlaTFoYzFBeFZVSTRiVFl4VVZsM2JuQnJZVzFTRWhZMFRFbHZXbUY2WkVoTU4ycHJVRWxRZW5BdFlVTkJHaUpCU25kckxUaG1kVjl5VVVkd2VqWlNYM0J0VW1kS1RYRTJVRmRwWHpGTWR6aDMiLCJmY3YiOiIzIiwiZWkiOiI0TElvWmF6ZEhMN2prUElQenAtYUNBIiwicWMiOiJDaFJ0WlhSeWIyZHlZWEJvSUhOb2IzZDBhVzFsY3hBQWZVV2JNejgiLCJxdWVzdGlvbiI6IkFyZSBoYXRzIGFsbG93ZWQgaW4gbW92aWUgdGhlYXRlcnM%2FIiwibGsiOiJHaUpoY21VZ2FHRjBjeUJoYkd4dmQyVmtJR2x1SUcxdmRtbGxJSFJvWldGMFpYSnoiLCJicyI6ImMtUFM0RkoyTEVwVnlFZ3NLVlpJek1uSkwwOU5VY2pNVThqTkw4dE1WU2pKU0Uwc1NTMHF0cGZZNmNvbHp5WGxXUXdTQWlwUFZNaE5MU25LVHk5S0xNaFFTQ3dvc0pmWXJjeWx5Q1VUbnBHdmtGLWVWNnpnaTVBT2dSaGlMOUZRd21YSXBSTU9OaUE1TVVfQlU2RThzU1E1QTJoZFNtcEJLcERJSzRIWVd3eHlnVi1rczczRWUyY0JSZ0EiLCJpZCI6ImZjXzMifQ%3D%3D"
+    },
+    {
+      "question": "Is there a metrograph app?",
+      "snippet": "From your TV, search the App Store for `Metrograph` and install the app. Select `Link this TV` and follow the on-screen instructions.",
+      "title": "Metrograph TV",
+      "link": "https://metrograph.com/tv/#:~:text=or%20newer)%3A-,From%20your%20TV%2C%20search%20the%20App%20Store%20for%20%22Metrograph%22,follow%20the%20on%2Dscreen%20instructions.",
+      "displayed_link": "https://metrograph.com › ...",
+      "thumbnail": "https://serpapi.com/searches/6528b2e05119a6aa49c1af49/images/a6649b2aa827a5aaf19cf0a58a813363de6ada9cde06e8070218bc19e86a2ec9.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJFdEtWbU5DWkVGSk16VkhVM1ptVW1ORk5tSkhablEzYmw5Q2RqUkpXVXRPZERKcFlXMHliMWR5VlV0MFlXcDVlaTFoYzFBeFZVSTRiVFl4VVZsM2JuQnJZVzFTRWhZMFRFbHZXbUY2WkVoTU4ycHJVRWxRZW5BdFlVTkJHaUpCU25kckxUaG1kVjl5VVVkd2VqWlNYM0J0VW1kS1RYRTJVRmRwWHpGTWR6aDMiLCJmY3YiOiIzIiwiZWkiOiI0TElvWmF6ZEhMN2prUElQenAtYUNBIiwicWMiOiJDaFJ0WlhSeWIyZHlZWEJvSUhOb2IzZDBhVzFsY3hBQWZVV2JNejgiLCJxdWVzdGlvbiI6IklzIHRoZXJlIGEgbWV0cm9ncmFwaCBhcHA/IiwibGsiOiJHaGxwY3lCMGFHVnlaU0JoSUcxbGRISnZaM0poY0dnZ1lYQnciLCJicyI6ImMtUFM0RkoyTEVwVnlFZ3NLVlpJek1uSkwwOU5VY2pNVThqTkw4dE1WU2pKU0Uwc1NTMHF0cGZZNmNvbHp5WGxXUXdTQWlwUFZNaE5MU25LVHk5S0xNaFFTQ3dvc0pmWXJjeWx5Q1VUbnBHdmtGLWVWNnpnaTVBT2dSaGlMOUZRd21YSXBSTU9OaUE1TVVfQlU2RThzU1E1QTJoZFNtcEJLcERJSzRIWVd3eHlnVi1rczczRWUyY0JSZ0EiLCJpZCI6ImZjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJFdEtWbU5DWkVGSk16VkhVM1ptVW1ORk5tSkhablEzYmw5Q2RqUkpXVXRPZERKcFlXMHliMWR5VlV0MFlXcDVlaTFoYzFBeFZVSTRiVFl4VVZsM2JuQnJZVzFTRWhZMFRFbHZXbUY2WkVoTU4ycHJVRWxRZW5BdFlVTkJHaUpCU25kckxUaG1kVjl5VVVkd2VqWlNYM0J0VW1kS1RYRTJVRmRwWHpGTWR6aDMiLCJmY3YiOiIzIiwiZWkiOiI0TElvWmF6ZEhMN2prUElQenAtYUNBIiwicWMiOiJDaFJ0WlhSeWIyZHlZWEJvSUhOb2IzZDBhVzFsY3hBQWZVV2JNejgiLCJxdWVzdGlvbiI6IklzIHRoZXJlIGEgbWV0cm9ncmFwaCBhcHA%2FIiwibGsiOiJHaGxwY3lCMGFHVnlaU0JoSUcxbGRISnZaM0poY0dnZ1lYQnciLCJicyI6ImMtUFM0RkoyTEVwVnlFZ3NLVlpJek1uSkwwOU5VY2pNVThqTkw4dE1WU2pKU0Uwc1NTMHF0cGZZNmNvbHp5WGxXUXdTQWlwUFZNaE5MU25LVHk5S0xNaFFTQ3dvc0pmWXJjeWx5Q1VUbnBHdmtGLWVWNnpnaTVBT2dSaGlMOUZRd21YSXBSTU9OaUE1TVVfQlU2RThzU1E1QTJoZFNtcEJLcERJSzRIWVd3eHlnVi1rczczRWUyY0JSZ0EiLCJpZCI6ImZjXzMifQ%3D%3D"
+    },
+    {
+      "question": "Who owns Metrograph Theater?",
+      "snippet": "It opened in 2016 with two theatres, a bookstore, a `curated` concession stand, and a restaurant. It was founded by Alexander Olch, who is better known as a designer of men's ties.",
+      "title": "Alexander Olch",
+      "link": "https://en.wikipedia.org/wiki/Metrograph#:~:text=It%20opened%20in%202016%20with,a%20designer%20of%20men's%20ties.",
+      "displayed_link": "https://en.wikipedia.org › wiki › Metrograph",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95ThMMfnE4Q6altlyN12g4_jc8uIfq9ccXSaUXx93qw&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJFdEtWbU5DWkVGSk16VkhVM1ptVW1ORk5tSkhablEzYmw5Q2RqUkpXVXRPZERKcFlXMHliMWR5VlV0MFlXcDVlaTFoYzFBeFZVSTRiVFl4VVZsM2JuQnJZVzFTRWhZMFRFbHZXbUY2WkVoTU4ycHJVRWxRZW5BdFlVTkJHaUpCU25kckxUaG1kVjl5VVVkd2VqWlNYM0J0VW1kS1RYRTJVRmRwWHpGTWR6aDMiLCJmY3YiOiIzIiwiZWkiOiI0TElvWmF6ZEhMN2prUElQenAtYUNBIiwicWMiOiJDaFJ0WlhSeWIyZHlZWEJvSUhOb2IzZDBhVzFsY3hBQWZVV2JNejgiLCJxdWVzdGlvbiI6IldobyBvd25zIE1ldHJvZ3JhcGggVGhlYXRlcj8iLCJsayI6IkdodDNhRzhnYjNkdWN5QnRaWFJ5YjJkeVlYQm9JSFJvWldGMFpYSSIsImJzIjoiYy1QUzRGSjJMRXBWeUVnc0tWWkl6TW5KTDA5TlVjak1VOGpOTDh0TVZTakpTRTBzU1MwcXRwZlk2Y29senlYbFdRd1NBaXBQVk1oTkxTbktUeTlLTE1oUVNDd29zSmZZcmN5bHlDVVRucEd2a0YtZVY2emdpNUFPZ1JoaUw5RlF3bVhJcFJNT05pQTVNVV9CVTZFOHNTUTVBMmhkU21wQktwRElLNEhZV3d4eWdWLWtzNzNFZTJjQlJnQSIsImlkIjoiZmNfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJFdEtWbU5DWkVGSk16VkhVM1ptVW1ORk5tSkhablEzYmw5Q2RqUkpXVXRPZERKcFlXMHliMWR5VlV0MFlXcDVlaTFoYzFBeFZVSTRiVFl4VVZsM2JuQnJZVzFTRWhZMFRFbHZXbUY2WkVoTU4ycHJVRWxRZW5BdFlVTkJHaUpCU25kckxUaG1kVjl5VVVkd2VqWlNYM0J0VW1kS1RYRTJVRmRwWHpGTWR6aDMiLCJmY3YiOiIzIiwiZWkiOiI0TElvWmF6ZEhMN2prUElQenAtYUNBIiwicWMiOiJDaFJ0WlhSeWIyZHlZWEJvSUhOb2IzZDBhVzFsY3hBQWZVV2JNejgiLCJxdWVzdGlvbiI6IldobyBvd25zIE1ldHJvZ3JhcGggVGhlYXRlcj8iLCJsayI6IkdodDNhRzhnYjNkdWN5QnRaWFJ5YjJkeVlYQm9JSFJvWldGMFpYSSIsImJzIjoiYy1QUzRGSjJMRXBWeUVnc0tWWkl6TW5KTDA5TlVjak1VOGpOTDh0TVZTakpTRTBzU1MwcXRwZlk2Y29senlYbFdRd1NBaXBQVk1oTkxTbktUeTlLTE1oUVNDd29zSmZZcmN5bHlDVVRucEd2a0YtZVY2emdpNUFPZ1JoaUw5RlF3bVhJcFJNT05pQTVNVV9CVTZFOHNTUTVBMmhkU21wQktwRElLNEhZV3d4eWdWLWtzNzNFZTJjQlJnQSIsImlkIjoiZmNfMyJ9"
+    },
+    {
+      "question": "Where can I watch independent movies in NYC?",
+      "snippet": "The Angelika Film Center opened in New York City in 1989 and has since become one of the most successful and recognized arthouse theatres in the United States. It plays a broad mixture of independent features and caters to NYC's movie buffs, film school drop outs, and movie stars.",
+      "title": "Arthouses and Independent Movie Theatres - Nerd York City",
+      "link": "https://www.nerdyorkcity.com/metro/nyc-guide/culture/arthouses-and-independent-movie-theatres/#:~:text=The%20Angelika%20Film%20Center%20opened,drop%20outs%2C%20and%20movie%20stars.",
+      "displayed_link": "https://www.nerdyorkcity.com › nyc-guide › culture › ar...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJFdEtWbU5DWkVGSk16VkhVM1ptVW1ORk5tSkhablEzYmw5Q2RqUkpXVXRPZERKcFlXMHliMWR5VlV0MFlXcDVlaTFoYzFBeFZVSTRiVFl4VVZsM2JuQnJZVzFTRWhZMFRFbHZXbUY2WkVoTU4ycHJVRWxRZW5BdFlVTkJHaUpCU25kckxUaG1kVjl5VVVkd2VqWlNYM0J0VW1kS1RYRTJVRmRwWHpGTWR6aDMiLCJmY3YiOiIzIiwiZWkiOiI0TElvWmF6ZEhMN2prUElQenAtYUNBIiwicWMiOiJDaFJ0WlhSeWIyZHlZWEJvSUhOb2IzZDBhVzFsY3hBQWZVV2JNejgiLCJxdWVzdGlvbiI6IldoZXJlIGNhbiBJIHdhdGNoIGluZGVwZW5kZW50IG1vdmllcyBpbiBOWUM/IiwibGsiOiJHaVIzYUdWeVpTQjBieUIzWVhSamFDQnBibVJsY0dWdVpHVnVkQ0JtYVd4dGN5QnVlV00iLCJicyI6ImMtUFM0RkoyTEVwVnlFZ3NLVlpJek1uSkwwOU5VY2pNVThqTkw4dE1WU2pKU0Uwc1NTMHF0cGZZNmNvbHp5WGxXUXdTQWlwUFZNaE5MU25LVHk5S0xNaFFTQ3dvc0pmWXJjeWx5Q1VUbnBHdmtGLWVWNnpnaTVBT2dSaGlMOUZRd21YSXBSTU9OaUE1TVVfQlU2RThzU1E1QTJoZFNtcEJLcERJSzRIWVd3eHlnVi1rczczRWUyY0JSZ0EiLCJpZCI6ImZjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJFdEtWbU5DWkVGSk16VkhVM1ptVW1ORk5tSkhablEzYmw5Q2RqUkpXVXRPZERKcFlXMHliMWR5VlV0MFlXcDVlaTFoYzFBeFZVSTRiVFl4VVZsM2JuQnJZVzFTRWhZMFRFbHZXbUY2WkVoTU4ycHJVRWxRZW5BdFlVTkJHaUpCU25kckxUaG1kVjl5VVVkd2VqWlNYM0J0VW1kS1RYRTJVRmRwWHpGTWR6aDMiLCJmY3YiOiIzIiwiZWkiOiI0TElvWmF6ZEhMN2prUElQenAtYUNBIiwicWMiOiJDaFJ0WlhSeWIyZHlZWEJvSUhOb2IzZDBhVzFsY3hBQWZVV2JNejgiLCJxdWVzdGlvbiI6IldoZXJlIGNhbiBJIHdhdGNoIGluZGVwZW5kZW50IG1vdmllcyBpbiBOWUM%2FIiwibGsiOiJHaVIzYUdWeVpTQjBieUIzWVhSamFDQnBibVJsY0dWdVpHVnVkQ0JtYVd4dGN5QnVlV00iLCJicyI6ImMtUFM0RkoyTEVwVnlFZ3NLVlpJek1uSkwwOU5VY2pNVThqTkw4dE1WU2pKU0Uwc1NTMHF0cGZZNmNvbHp5WGxXUXdTQWlwUFZNaE5MU25LVHk5S0xNaFFTQ3dvc0pmWXJjeWx5Q1VUbnBHdmtGLWVWNnpnaTVBT2dSaGlMOUZRd21YSXBSTU9OaUE1TVVfQlU2RThzU1E1QTJoZFNtcEJLcERJSzRIWVd3eHlnVi1rczczRWUyY0JSZ0EiLCJpZCI6ImZjXzMifQ%3D%3D"
+    }
+  ],
+  "answer_box": {
+    "type": "showtimes_for_boogie_nights"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "NYC Theater",
+      "link": "https://metrograph.com/nyc/",
+      "displayed_link": "https://metrograph.com › nyc",
+      "favicon": "https://serpapi.com/searches/6528b2e05119a6aa49c1af49/images/36bebb34d51143ee5cc2b93f79db4c037523f7da56c91cf1beef67e09d1b0268.jpeg",
+      "snippet": "Please check back soon for updated showtimes! More... Downtown 81. Friday October 20. Friday October 20. 2:20pm. Director: Edo Bertoglio. 2000 / 75min / DCP. A ...",
+      "snippet_highlighted_words": [
+        "showtimes"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Calendar",
+            "link": "https://metrograph.com/calendar/"
+          },
+          {
+            "title": "Tickets",
+            "link": "https://metrograph.com/tickets/"
+          },
+          {
+            "title": "Millennium Mambo",
+            "link": "https://metrograph.com/film/?vista_film_id=9999001804"
+          },
+          {
+            "title": "Series",
+            "link": "https://metrograph.com/series/"
+          }
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://metrograph.com/nyc/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmetrograph.com%2Fnyc%2F",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JVT6P1MBY80J:https://metrograph.com/nyc/&hl=en&gl=us",
+      "source": "Metrograph"
+    },
+    {
+      "position": 2,
+      "title": "Metrograph",
+      "link": "https://metrograph.com/",
+      "displayed_link": "https://metrograph.com",
+      "favicon": "https://serpapi.com/searches/6528b2e05119a6aa49c1af49/images/36bebb34d51143ee5cc2b93f79db4c0354a049681f6569bd85ff58aabbfe5ca7.jpeg",
+      "snippet": "Enjoy Metrograph At Home anywhere in the U.S. and the Metrograph ... Sign up for the Metrograph Newsletter to receive a weekly update of In Theater Showtimes ...",
+      "snippet_highlighted_words": [
+        "Metrograph",
+        "Metrograph",
+        "Metrograph",
+        "Showtimes"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Calendar",
+            "link": "https://metrograph.com/calendar/"
+          },
+          {
+            "title": "In Theater",
+            "link": "https://metrograph.com/nyc/"
+          },
+          {
+            "title": "Film",
+            "link": "https://metrograph.com/film/"
+          },
+          {
+            "title": "Metrograph Pictures",
+            "link": "https://metrograph.com/metrograph-pictures/"
+          }
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://metrograph.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmetrograph.com%2F",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Ud8OW4iIxEUJ:https://metrograph.com/&hl=en&gl=us",
+      "source": "Metrograph"
+    },
+    {
+      "position": 3,
+      "title": "Calendar",
+      "link": "https://metrograph.com/calendar/",
+      "displayed_link": "https://metrograph.com › calendar",
+      "favicon": "https://serpapi.com/searches/6528b2e05119a6aa49c1af49/images/36bebb34d51143ee5cc2b93f79db4c0379705b3321ef067ea94de6f25a576312.jpeg",
+      "snippet": "CALENDAR ; Wednesday October 18 · PRIVATE EVENT TODAY IN THEATER & COMMISSARY 8:00pm ; Thursday October 19 · PRIVATE EVENT TODAY IN THEATER & COMMISSARY 8:00pm.",
+      "about_page_link": "https://www.google.com/search?q=About+https://metrograph.com/calendar/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmetrograph.com%2Fcalendar%2F",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:iF1uqo-qrccJ:https://metrograph.com/calendar/&hl=en&gl=us",
+      "source": "Metrograph"
+    },
+    {
+      "position": 4,
+      "title": "Millennium Mambo - Now Playing In Theater at ...",
+      "link": "https://metrograph.com/film/?vista_film_id=9999001804",
+      "displayed_link": "https://metrograph.com › film",
+      "favicon": "https://serpapi.com/searches/6528b2e05119a6aa49c1af49/images/36bebb34d51143ee5cc2b93f79db4c036e5116f5e818f7cfa13c631b87294fa7.jpeg",
+      "snippet": "A stylish and seductive submersion into the techno-scored neon nightlife of Taipei, Hou's much-misunderstood marvel stars Shu Qi (The Assassin) as…",
+      "about_page_link": "https://www.google.com/search?q=About+https://metrograph.com/film/?vista_film_id=9999001804&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmetrograph.com%2Ffilm%2F%3Fvista_film_id%3D9999001804",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TKNshiR-Ra0J:https://metrograph.com/film/%3Fvista_film_id%3D9999001804&hl=en&gl=us",
+      "source": "Metrograph"
+    },
+    {
+      "position": 5,
+      "title": "Alphabet City - Now Playing In Theater at Metrograph",
+      "link": "https://metrograph.com/film/?vista_film_id=9999003322",
+      "displayed_link": "https://metrograph.com › film",
+      "favicon": "https://serpapi.com/searches/6528b2e05119a6aa49c1af49/images/36bebb34d51143ee5cc2b93f79db4c03da65a8ece5e862912410eca39a41c326.jpeg",
+      "snippet": "Alphabet City. No upcoming showtimes scheduled. Director: Amos Poe ... Sign up for the Metrograph Newsletter to receive a weekly update of In Theater Showtimes ...",
+      "snippet_highlighted_words": [
+        "showtimes",
+        "Metrograph",
+        "Showtimes"
+      ],
+      "about_page_link": "https://www.google.com/search?q=About+https://metrograph.com/film/?vista_film_id=9999003322&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmetrograph.com%2Ffilm%2F%3Fvista_film_id%3D9999003322",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-9pFemVobacJ:https://metrograph.com/film/%3Fvista_film_id%3D9999003322&hl=en&gl=us",
+      "source": "Metrograph"
+    },
+    {
+      "position": 6,
+      "title": "Eyes Wide Shut - Now Playing In Theater at ...",
+      "link": "https://metrograph.com/film/?vista_film_id=9999000045",
+      "displayed_link": "https://metrograph.com › film",
+      "favicon": "https://serpapi.com/searches/6528b2e05119a6aa49c1af49/images/36bebb34d51143ee5cc2b93f79db4c03399b8a62440251d84da53523d7536aed.jpeg",
+      "snippet": "Eyes Wide Shut. No upcoming showtimes scheduled. Director: Stanley ... Sign up for the Metrograph Newsletter to receive a weekly update of In Theater Showtimes ...",
+      "snippet_highlighted_words": [
+        "showtimes",
+        "Metrograph",
+        "Showtimes"
+      ],
+      "about_page_link": "https://www.google.com/search?q=About+https://metrograph.com/film/?vista_film_id=9999000045&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmetrograph.com%2Ffilm%2F%3Fvista_film_id%3D9999000045",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:47WS23Kf_90J:https://metrograph.com/film/%3Fvista_film_id%3D9999000045&hl=en&gl=us",
+      "source": "Metrograph"
+    },
+    {
+      "position": 7,
+      "title": "Moonlight - Now Playing In Theater at Metrograph",
+      "link": "https://metrograph.com/film/?vista_film_id=9999001809",
+      "displayed_link": "https://metrograph.com › film",
+      "favicon": "https://serpapi.com/searches/6528b2e05119a6aa49c1af49/images/36bebb34d51143ee5cc2b93f79db4c03b6ffcdfd83cf9f3ab4067cc1cb84f5ea.jpeg",
+      "snippet": "Moonlight. No upcoming showtimes scheduled. Director: Barry Jenkins ... Sign up for the Metrograph Newsletter to receive a weekly update of In Theater Showtimes ...",
+      "snippet_highlighted_words": [
+        "showtimes",
+        "Metrograph",
+        "Showtimes"
+      ],
+      "about_page_link": "https://www.google.com/search?q=About+https://metrograph.com/film/?vista_film_id=9999001809&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmetrograph.com%2Ffilm%2F%3Fvista_film_id%3D9999001809",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vnwCfVIXPlkJ:https://metrograph.com/film/%3Fvista_film_id%3D9999001809&hl=en&gl=us",
+      "source": "Metrograph"
+    },
+    {
+      "position": 8,
+      "title": "Leonor Will Never Die - Now Playing In Theater at ...",
+      "link": "https://metrograph.com/film/?vista_film_id=9999003015",
+      "displayed_link": "https://metrograph.com › film",
+      "favicon": "https://serpapi.com/searches/6528b2e05119a6aa49c1af49/images/36bebb34d51143ee5cc2b93f79db4c032112bcfdaff9d692adb8582168f55ac3.jpeg",
+      "snippet": "Leonor Will Never Die. No upcoming showtimes scheduled. Director ... Sign up for the Metrograph Newsletter to receive a weekly update of In Theater Showtimes ...",
+      "snippet_highlighted_words": [
+        "showtimes",
+        "Metrograph",
+        "Showtimes"
+      ],
+      "about_page_link": "https://www.google.com/search?q=About+https://metrograph.com/film/?vista_film_id=9999003015&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmetrograph.com%2Ffilm%2F%3Fvista_film_id%3D9999003015",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uoP41FKGoqsJ:https://metrograph.com/film/%3Fvista_film_id%3D9999003015&hl=en&gl=us",
+      "source": "Metrograph"
+    },
+    {
+      "position": 9,
+      "title": "Downtown 81 - Now Playing In Theater at ...",
+      "link": "https://metrograph.com/film/?vista_film_id=9999002127",
+      "displayed_link": "https://metrograph.com › film",
+      "favicon": "https://serpapi.com/searches/6528b2e05119a6aa49c1af49/images/36bebb34d51143ee5cc2b93f79db4c032702ae6ee96785dcac403d4a88200c4f.jpeg",
+      "snippet": "A transmission from a bygone New York City, Downtown '81 follows Jean-Michel Basquiat on a journy through the underground.",
+      "about_page_link": "https://www.google.com/search?q=About+https://metrograph.com/film/?vista_film_id=9999002127&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmetrograph.com%2Ffilm%2F%3Fvista_film_id%3D9999002127",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-DG6e5Q6jLoJ:https://metrograph.com/film/%3Fvista_film_id%3D9999002127&hl=en&gl=us",
+      "source": "Metrograph"
+    },
+    {
+      "position": 10,
+      "title": "Lost In Translation - Now Playing In Theater at Metrograph",
+      "link": "https://metrograph.com/film/?vista_film_id=9999003098",
+      "displayed_link": "https://metrograph.com › film",
+      "favicon": "https://serpapi.com/searches/6528b2e05119a6aa49c1af49/images/36bebb34d51143ee5cc2b93f79db4c03f9ad42cd16f92bd8b72d4dee50675427.jpeg",
+      "snippet": "Films Showing. Back to films. Lost In Translation. No upcoming showtimes scheduled. Director: Sofia Coppola, ...",
+      "snippet_highlighted_words": [
+        "showtimes"
+      ],
+      "about_page_link": "https://www.google.com/search?q=About+https://metrograph.com/film/?vista_film_id=9999003098&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmetrograph.com%2Ffilm%2F%3Fvista_film_id%3D9999003098",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gJv0p87yzSwJ:https://metrograph.com/film/%3Fvista_film_id%3D9999003098&hl=en&gl=us",
+      "source": "Metrograph"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Metrograph showtimes nyc",
+      "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Metrograph+showtimes+nyc&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=Metrograph+showtimes+nyc"
+    },
+    {
+      "block_position": 1,
+      "query": "angelika showtimes",
+      "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Angelika+showtimes&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=Angelika+showtimes"
+    },
+    {
+      "block_position": 1,
+      "query": "film forum",
+      "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Film+Forum&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=Film+Forum"
+    },
+    {
+      "block_position": 1,
+      "query": "nitehawk cinema",
+      "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Nitehawk+Cinema&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=Nitehawk+Cinema"
+    },
+    {
+      "block_position": 1,
+      "query": "angelika film center",
+      "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Angelika+Film+Center&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=Angelika+Film+Center"
+    },
+    {
+      "block_position": 1,
+      "query": "metrograph streaming",
+      "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Metrograph+streaming&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=Metrograph+streaming"
+    },
+    {
+      "block_position": 1,
+      "query": "movie theater showtimes in new york",
+      "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=Movie+Theater+showtimes+in+New+York&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=Movie+Theater+showtimes+in+New+York"
+    },
+    {
+      "block_position": 1,
+      "query": "the idiots showtimes near metrograph",
+      "link": "https://www.google.com/search?sca_esv=573067372&hl=en&gl=us&q=The+Idiots+showtimes+near+Metrograph&sa=X&ved=2ahUKEwiszcabhPKBAxW-MUQIHc6PBgEQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=The+Idiots+showtimes+near+Metrograph"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=metrograph+showtimes&oq=metrograph+showtimes&hl=en&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=metrograph+showtimes&oq=metrograph+showtimes&hl=en&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=metrograph+showtimes&oq=metrograph+showtimes&hl=en&gl=us&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=metrograph+showtimes&oq=metrograph+showtimes&hl=en&gl=us&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=metrograph+showtimes&oq=metrograph+showtimes&hl=en&gl=us&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=metrograph+showtimes&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=metrograph+showtimes&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=metrograph+showtimes&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=metrograph+showtimes&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=metrograph+showtimes&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=New+York%2C+New+York%2C+United+States&q=metrograph+showtimes&start=40"
+    }
+  }
+}
