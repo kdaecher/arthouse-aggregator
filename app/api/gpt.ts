@@ -1,9 +1,7 @@
 import OpenAI from 'openai';
 
-const API_KEY = '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';
-
 const openai = new OpenAI({
-  apiKey: API_KEY,
+  apiKey: process.env.OPEN_AI_API_KEY,
 });
 
 export default async function chatCompletion() {
