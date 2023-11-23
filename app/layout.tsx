@@ -1,14 +1,23 @@
 import './globals.css'
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import { Inter, Inria_Serif } from 'next/font/google'
 import localFont from 'next/font/local'
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({
+  subsets: ['latin'],
+  variable: '--font-inter',
+});
 
-const NightAtTheOpera = localFont({
+const nightAtTheOpera = localFont({
   src: './assets/NightAtTheOperaNF.otf',
   display: 'swap',
   variable: '--font-opera',
+});
+
+const inria = Inria_Serif({
+  subsets: ['latin'],
+  weight: ['300', '400', '700'],
+  variable: '--font-inria',
 });
 
 export const metadata: Metadata = {
@@ -22,8 +31,11 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className={`h-full ${NightAtTheOpera.variable}`}>
-      <body className={`h-full ${inter.className}`}>{children}</body>
+    <html
+      lang="en"
+      className={`h-full ${nightAtTheOpera.variable} ${inria.variable} ${inter.variable}`}
+    >
+      <body className={`h-full ${inria.className}`}>{children}</body>
     </html>
-  )
+  );
 }

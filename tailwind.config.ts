@@ -15,6 +15,8 @@ const config: Config = {
       },
       fontFamily: {
         opera: ['var(--font-opera)'],
+        inria: ['var(--font-inria)'],
+        inter: ['var(--font-inter)'],
       },
     },
   },

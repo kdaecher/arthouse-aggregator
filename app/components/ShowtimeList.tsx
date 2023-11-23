@@ -2,12 +2,9 @@ import React, { useState } from 'react';
 
 import { default as ShowtimeType } from '../types/Showtime';
 
-import { compareTime } from '../utils/sortTimes';
+import { compareTime } from '../utils/sortByTime';
 
-import filterImage from '../assets/filter.png';
 import Showtime from './Showtime';
-import Image from 'next/image';
-import TimeRangeSlider from './TimeRangeSlider';
 
 type Props = {
   showtimes: ShowtimeType[];

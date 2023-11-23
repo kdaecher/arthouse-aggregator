@@ -2,7 +2,7 @@ import { Theater } from '../types/Theater';
 import Showtime from '../types/Showtime';
 import getShowtimesForTheater from '../api/getShowtimesForTheater';
 import groupBy from './groupBy';
-import { compareTime } from './sortTimes';
+import { compareTime } from './sortByTime';
 import sortByDay from './sortByDay';
 import dayIsThisWeek from './dayIsThisWeek';
 

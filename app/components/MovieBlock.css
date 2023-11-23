@@ -1,0 +1,15 @@
+#movie #details-wrapper {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 500ms;
+}
+
+#movie:hover #details-wrapper,
+#movie:focus #details-wrapper,
+#movie:focus-within #details-wrapper {
+  grid-template-rows: 1fr;
+}
+
+#movie #details-content {
+  overflow: hidden;
+}
