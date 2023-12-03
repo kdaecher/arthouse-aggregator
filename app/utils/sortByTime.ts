@@ -5,8 +5,8 @@ function convertTime(timeStr: string) {
   const hours = parseInt(hour);
   const minutes = parseInt(minute);
 
-  // Special handling for 12am and 12pm
   if (hours === 12) {
+    // Special handling for 12am and 12pm
     return (isPM ? hours : 0) * 60 + minutes;
   } else {
     return (isPM ? hours + 12 : hours) * 60 + minutes;

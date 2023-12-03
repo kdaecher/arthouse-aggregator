@@ -1,13 +1,14 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Showtime from '../types/Showtime';
 import groupBy from '../utils/groupBy';
 
 import './MovieBlock.css';
+import TimeButton from './TimeButton';
 
 type Props = {
   movie: string;
   showtimes: Showtime[];
-}
+};
 
 export default function ({ movie, showtimes }: Props) {
   const groupedByTheater = groupBy(showtimes, 'theater');
@@ -18,7 +19,7 @@ export default function ({ movie, showtimes }: Props) {
       id="movie"
       className="py-6"
     >
-      <div>
+      <div className="capitalize">
         {movie}
       </div>
       <div id="details-wrapper">
@@ -30,13 +31,15 @@ export default function ({ movie, showtimes }: Props) {
               </div>
               <div className="flex flex-row">
                 {groupedByTheater[theater].map((showtime: Showtime, index: number) => (
-                  <button
-                    key={`${movie}-${theater}-${showtime.time}`}
-                    onClick={() => window.open(showtime.link)}
-                    className={`border-[0.5px] border-black ${index > 0 ? 'mx-1' : 'mr-1'} p-1 text-s hover:text-white hover:bg-black focus:text-white focus:bg-black`}
-                  >
-                    {showtime.time}
-                  </button>
+                <div
+                  key={`${movie}-${theater}-${showtime.time}`}
+                  className={`${index > 0 ? 'mx-1' : 'mr-1'}`}
+                >
+                  <TimeButton
+                    time={showtime.time}
+                    link={showtime.link}
+                  />
+                </div>
                 ))}
               </div>
             </div>

@@ -2,6 +2,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 import { Inter, Inria_Serif } from 'next/font/google'
 import localFont from 'next/font/local'
+import SiteTitle from './components/SiteTitle';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -35,7 +36,16 @@ export default function RootLayout({
       lang="en"
       className={`h-full ${nightAtTheOpera.variable} ${inria.variable} ${inter.variable}`}
     >
-      <body className={`h-full ${inria.className}`}>{children}</body>
+      <body className={`h-full ${inria.className}`}>
+        <div className="grid grid-cols-12 grid-rows-[10%_90%] w-full h-full">
+          <div className="col-start-2 col-span-2 row-start-2">
+            <SiteTitle />
+          </div>
+          <div className="col-start-5 col-span-6 row-start-2">
+            {children}
+          </div>
+        </div>
+      </body>
     </html>
   );
 }
