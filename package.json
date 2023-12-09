@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@vercel/analytics": "^1.1.1",
+    "@vercel/speed-insights": "^1.0.1",
     "cheerio": "^1.0.0-rc.12",
     "lodash": "^4.17.21",
     "luxon": "^3.4.4",

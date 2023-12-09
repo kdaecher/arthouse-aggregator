@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 import { Inter, Inria_Serif } from 'next/font/google'
 import localFont from 'next/font/local'
 import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import SiteTitle from './components/SiteTitle';
 
 const inter = Inter({
@@ -47,6 +48,7 @@ export default function RootLayout({
           </div>
         </div>
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
