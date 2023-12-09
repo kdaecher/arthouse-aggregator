@@ -6,7 +6,7 @@ import Theater from '@/app/types/Theater';
 
 const theater = Theater.FILM_FORUM;
 
-export default function (html: string ): Showtime[] {
+export default function parse(html: string ): Showtime[] {
   const $ = load(html);
 
   const days = $('[aria-label="This week\'s showtimes at Film Forum"]').find('a');

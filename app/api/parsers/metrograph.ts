@@ -6,7 +6,7 @@ import Theater from '@/app/types/Theater';
 
 const theater = Theater.METROGRAPH;
 
-export default function (html: string): Showtime[] {
+export default function parse(html: string): Showtime[] {
   const $ = load(html);
 
   const days = $('.calendar-list-day')

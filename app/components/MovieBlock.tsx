@@ -10,7 +10,7 @@ type Props = {
   showtimes: Showtime[];
 };
 
-export default function ({ movie, showtimes }: Props) {
+export default function MovieBlock({ movie, showtimes }: Props) {
   const groupedByTheater = groupBy(showtimes, 'theater');
 
   return (
