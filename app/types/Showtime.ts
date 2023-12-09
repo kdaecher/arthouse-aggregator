@@ -1,5 +1,4 @@
-import { DateTime } from 'luxon';
-import { Theater } from './Theater';
+import type Theater from './Theater';
 
 type Showtime = {
   day: number;

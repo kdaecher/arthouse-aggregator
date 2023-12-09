@@ -1,4 +1,4 @@
-import Showtime from '../types/Showtime';
+import type Showtime from '../types/Showtime';
 import groupBy from '../utils/groupBy';
 import ScrapeMap from './ScrapeMap';
 

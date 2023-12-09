@@ -1,8 +1,8 @@
 import { load } from 'cheerio';
 import { DateTime } from 'luxon';
 
-import Showtime from '@/app/types/Showtime';
-import { Theater } from '@/app/types/Theater';
+import type Showtime from '@/app/types/Showtime';
+import Theater from '@/app/types/Theater';
 
 const theater = Theater.METROGRAPH;
 

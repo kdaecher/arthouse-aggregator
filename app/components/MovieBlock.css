@@ -6,7 +6,7 @@
 
 #movie:hover #details-wrapper,
 #movie:focus-visible #details-wrapper,
-#movie:focus-within #details-wrapper {
+#movie:has(:focus-visible) #details-wrapper {
   grid-template-rows: 1fr;
 }
 
