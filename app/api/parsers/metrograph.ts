@@ -31,12 +31,13 @@ export default function parse(html: string): Showtime[] {
 
     const moviesPerDay = $(dayNode).find($('.calendar-list-showtimes'));
     moviesPerDay.each((_, movieNode) => {
-      const movie = $(movieNode).find('.title').text();
+      const titleNode = $(movieNode).find('.title');
+      const movie = $(titleNode).text();
+      const link = $(titleNode).attr('href');
+
       const times = $(movieNode).find('a[title="Buy Tickets"]');
-      
       times.each((_, timeNode ) => {
         const time = $(timeNode).text();
-        const link = $(timeNode).attr('href');
   
         if (day && movie && time && link) {
           showtimes.push({
@@ -44,7 +45,7 @@ export default function parse(html: string): Showtime[] {
             theater,
             movie,
             time,
-            link,
+            link: `https://metrograph.com${link}`,
           });
         }
       });

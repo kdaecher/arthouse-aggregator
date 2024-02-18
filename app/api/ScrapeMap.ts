@@ -9,6 +9,14 @@ const map = [
     url: 'https://filmforum.org/now_playing',
     parser: parsers.filmForum,
   },
+  {
+    url: 'http://anthologyfilmarchives.org/film_screenings/calendar',
+    parser: parsers.anthology,
+  },
+  {
+    url: 'https://www.ifccenter.com/',
+    parser: parsers.ifcCenter,
+  },
 ];
 
 export default map;
