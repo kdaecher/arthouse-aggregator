@@ -7,7 +7,7 @@ function convertTime(timeStr: string) {
 
   if (hours === 12) {
     // Special handling for 12am and 12pm
-    return (isPM ? hours : 0) * 60 + minutes;
+    return (isPM ? hours : 24) * 60 + minutes;
   } else {
     return (isPM ? hours + 12 : hours) * 60 + minutes;
   }
@@ -21,8 +21,4 @@ export function compareTime(a: string, b: string) {
   if (timeA < timeB) return -1;
   if (timeA > timeB) return 1;
   return 0;
-}
-
-export default function sortTimes(timeArray: string[]) {
-  return timeArray.sort(compareTime);
 }

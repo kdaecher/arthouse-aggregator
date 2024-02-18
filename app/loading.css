@@ -1,5 +1,5 @@
 .loader {
-  border: 1px dashed black;
+  border: 1px dashed #98884C;
   border-radius: 50%;
   animation: spin 5s linear infinite;
 }

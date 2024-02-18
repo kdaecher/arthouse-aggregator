@@ -8,16 +8,44 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
       fontFamily: {
         opera: ['var(--font-opera)'],
         inria: ['var(--font-inria)'],
         inter: ['var(--font-inter)'],
       },
+      colors: {
+        chartreuse: '#98884C',
+        newspaper: '#DFDFDF'
+      },
+      transitionProperty: {
+        'height': 'height',
+      },
+      gridColumnStart: {
+        '14': '14',
+        '15': '15',
+        '16': '16',
+        '17': '17',
+        '18': '18',
+        '19': '19',
+        '20': '20',
+        '21': '21',
+        '22': '22',
+        '23': '23',
+        '24': '24',
+      },
+      gridRowStart: {
+        '14': '14',
+        '15': '15',
+        '16': '16',
+        '17': '17',
+        '18': '18',
+        '19': '19',
+        '20': '20',
+        '21': '21',
+        '22': '22',
+        '23': '23',
+        '24': '24',
+      }
     },
   },
   plugins: [],
