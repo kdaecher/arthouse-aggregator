@@ -17,6 +17,10 @@ const map = [
     url: 'https://www.ifccenter.com/',
     parser: parsers.ifcCenter,
   },
+  {
+    url: 'https://www.cinemavillage.com/calendar/',
+    parser: parsers.cinemaVillage,
+  }
 ];
 
 export default map;

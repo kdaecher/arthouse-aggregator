@@ -9,6 +9,7 @@ enum Theater {
   LINCOLN_CENTER = 'Film at Lincoln Center',
   ANTHOLOGY_FILM_ARCHIVES = 'Anthology Film Archives',
   ROXY_CINEMA = 'Roxy Cinema',
+  CINEMA_VILLAGE = 'Cinema Village',
 };
 
 export default Theater;
