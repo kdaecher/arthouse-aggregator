@@ -4,7 +4,7 @@ interface Props {
   onClick: () => void;
 }
 
-export default function ({ onClick, children }: PropsWithChildren<Props>) {
+export default function LinkButton ({ onClick, children }: PropsWithChildren<Props>) {
   return (
     <button
       onClick={onClick}
