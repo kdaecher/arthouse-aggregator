@@ -1,4 +1,8 @@
 import React from 'react';
+
+import getHourOfTime from '@/app/utils/getHourOfTime';
+
+import LinkButton from '../LinkButton';
 import Showtime from '../../types/Showtime';
 import { compareTime } from '../../utils/sortByTime';
 import {
@@ -34,26 +38,20 @@ export default function TheaterRow({ theater, showtimes, times, rowNum }: Props)
         {showtimes
           .sort((a, b) => compareTime(a.time, b.time))
           .map(({ time, movie, link }) => {
-            const match = time.match(/(\d{1,2}):(\d{2})\s?(am|pm)/i);
-            const hour = match ? match[1] + match[3].toLowerCase() : '';
+            const hour = getHourOfTime(time);
             const col = times.indexOf(hour) + 2;
 
             return (
-              <button
+              <div
                 key={`${theater}-${movie}-${time}`}
-                onClick={() => window.open(link)}
-                before-value-hover={`${time}`}
-                before-value={movie}
-                className={`
-                  capitalize
-                  text-left
-                  hover:text-chartreuse
-                  focus:text-chartreuse
-                  ${colStart[col]}
-                `}
+                className={`${colStart[col]}`}
               >
-                {movie}
-              </button>
+                <LinkButton
+                  onClick={() => window.open(link)}
+                >
+                  {movie}
+                </LinkButton>
+              </div>
             );
           })
         }
