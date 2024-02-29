@@ -4,6 +4,7 @@ import { colNumber } from '@/app/utils/gridStyles';
 import Showtime from '@/app/types/Showtime';
 import groupBy from '@/app/utils/groupBy';
 import { compareTime } from '@/app/utils/sortByTime';
+import getHourOfTime from '@/app/utils/getHourOfTime';
 
 import TimesRow from './TimesRow';
 import TheaterRow from './TheaterRow';
@@ -19,10 +20,7 @@ export default function TimeTable ({ showtimes }: Props) {
   const timesFormatted = showtimes
     .map(({ time }) => time)
     .sort((a, b) => compareTime(a, b))
-    .map(time => {
-      let match = time.match(/(\d{1,2}):(\d{2})\s?(am|pm)/i);
-      return match ? match[1] + match[3].toLowerCase() : '';
-    });
+    .map(time => getHourOfTime(time));
   const uniqueTimes = new Set(timesFormatted);
   const timesArray = Array.from(uniqueTimes);
   const numCols = uniqueTimes.size + 1;
