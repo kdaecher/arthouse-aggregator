@@ -1,10 +1,13 @@
 import React, { PropsWithChildren } from 'react';
 
 interface Props {
-  onClick: () => void;
+  onClick: (e?: React.MouseEvent) => void;
 }
 
-export default function LinkButton ({ onClick, children }: PropsWithChildren<Props>) {
+export default function LinkButton ({
+  onClick,
+  children,
+}: PropsWithChildren<Props>) {
   return (
     <button
       onClick={onClick}
