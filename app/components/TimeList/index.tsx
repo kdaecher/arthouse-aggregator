@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 import Showtime from '@/app/types/Showtime';
 import groupBy from '@/app/utils/groupBy';
@@ -11,6 +11,7 @@ interface Props {
 }
 
 export default function TimeList ({ showtimes }: Props) {
+  const [openTime, setOpenTime] = useState<string>();
   const showtimesByTime = groupBy(showtimes.map(showtime => ({...showtime, time: getHourOfTime(showtime.time)})), 'time');
 
   const timesFormatted = showtimes
@@ -32,6 +33,8 @@ export default function TimeList ({ showtimes }: Props) {
           key={time}
           time={time}
           showtimes={showtimesByTime[time]}
+          onClick={() => setOpenTime(openTime === time ? undefined : time)}
+          isOpen={openTime === time}
         />
       ))}
     </div>

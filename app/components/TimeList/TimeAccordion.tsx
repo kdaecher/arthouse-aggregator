@@ -1,15 +1,17 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import Showtime from '@/app/types/Showtime';
 import LinkButton from '../LinkButton';
+import Accordion from '../Accordion';
 
 interface Props {
   time: string;
   showtimes: Showtime[];
+  isOpen: boolean;
+  onClick: () => void;
 }
 
-export default function TimeAccordion({ time, showtimes }: Props) {
-  const [isOpen, setIsOpen] = useState(false);
+export default function TimeAccordion({ time, showtimes, isOpen, onClick }: Props) {
 
   return (
     <div
@@ -20,52 +22,54 @@ export default function TimeAccordion({ time, showtimes }: Props) {
         p-3
     `}
     >
-      <div
-        key={time}
-        onClick={() => setIsOpen(!isOpen)}
-        className={`
-          text-5xl
-          text-chartreuse
-          font-extralight
-          cursor-pointer
-        `}
-      >
-        {time}
-      </div>
-      <div
-        className={`
-          grid
-          grid-rows-[0fr]
-          transition-[grid-template-rows]
-          duration-500
-          ${isOpen  && 'grid-rows-[1fr]'}
-        `}
+      <Accordion
+        isOpen={isOpen}
+        onClick={onClick}
+        header={(
+          <p
+            className={`
+              text-5xl
+              font-extralight
+              cursor-pointer
+              // TODO: transition text color
+              ${isOpen && 'text-chartreuse'}
+            `}
+          >
+            {time}
+          </p>
+        )}
       >
         <div
           className={`
             flex
             flex-col
-            overflow-hidden
           `}
         >
           {showtimes?.map(({ theater, movie, link }) => (
-            <LinkButton
+            <div
               key={`${theater}-${movie}-${time}`}
-              onClick={() => window.open(link)}
+              className="pt-2 pl-1"
             >
-              {movie}
-              <p
-                className={`
-                  uppercase
-                  text-xs
-                `}
+              <LinkButton
+                onClick={(e) => {
+                  e?.stopPropagation();
+                  window.open(link);
+                }}
               >
-                {theater}
-              </p>
-            </LinkButton>
+                {movie}
+                <p
+                  className={`
+                    uppercase
+                    text-xs
+                  `}
+                >
+                  {theater}
+                </p>
+              </LinkButton>
+            </div>
           ))}
         </div>  
-      </div>
+      </Accordion>
     </div>
   );
 }

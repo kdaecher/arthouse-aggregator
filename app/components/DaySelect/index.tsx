@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 
+import Accordion from '../Accordion';
 import SelectedRow from './SelectedRow';
-import AccordionRows from './AccordionRows';
+import Row from './Row';
 
 interface Props {
   days: number[];
@@ -22,20 +23,30 @@ export default function DaySelect ({ days, selected, onChange }: Props) {
 
   return (
     <div role="select">
-      <AccordionRows
-        rows={beforeSelected}
-        onClick={onClick}
-        isOpen={isOpen}
-      />
+      <Accordion isOpen={isOpen}>
+        {beforeSelected.map(day => 
+          <Row
+            key={day}
+            day={day}
+            onClick={() => onClick(day)}
+            isVisible={isOpen}
+          />
+        )}
+      </Accordion>
       <SelectedRow
         day={selected}
         onClick={() => setIsOpen(!isOpen)}
       />
-      <AccordionRows
-        rows={afterSelected}
-        onClick={onClick}
-        isOpen={isOpen}
-      />
+      <Accordion isOpen={isOpen}>
+        {afterSelected.map(day => 
+          <Row
+            key={day}
+            day={day}
+            onClick={() => onClick(day)}
+            isVisible={isOpen}
+          />
+        )}
+      </Accordion>
     </div>
   );
 }
