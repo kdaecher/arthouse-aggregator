@@ -1,8 +1,8 @@
 import getData from '../getData';
 
-export const dynamic = 'force-dynamic'; // static by default, unless reading the request
- 
-export async function GET(request: Request) {
+export const dynamic = 'force-dynamic'; 
+
+export async function GET() {
   return new Response(JSON.stringify(await getData()));
 }
 
