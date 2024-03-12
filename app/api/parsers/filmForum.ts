@@ -54,7 +54,9 @@ export default function parse(html: string ): Showtime[] {
       const times = $(movieTitleNode).nextAll().filter('span');
 
       times.each((_, timeNode) => {
-        const time = $(timeNode).text();
+        let time = $(timeNode).text();
+        time = time.replace(/\(OC\)\s*$/, '');
+
         if (day && movie && time && link) {
           showtimes.push({
             day: day.toMillis(),
