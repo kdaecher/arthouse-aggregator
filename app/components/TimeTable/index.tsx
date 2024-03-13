@@ -28,7 +28,8 @@ export default function TimeTable ({ showtimes }: Props) {
   return (
     <div
       className={`
-        grid
+        hidden
+        md:grid 
         ${colNumber[numCols]}
         gap-x-3
         gap-y-1
