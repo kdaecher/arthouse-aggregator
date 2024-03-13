@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@supabase/ssr": "^0.1.0",
     "@supabase/supabase-js": "^2.39.7",
     "@vercel/analytics": "^1.1.1",
     "@vercel/speed-insights": "^1.0.1",

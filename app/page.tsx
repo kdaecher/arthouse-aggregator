@@ -1,13 +1,18 @@
 import React from 'react';
-import { createClient } from '@/app/utils/supabase/server';
-import { cookies } from 'next/headers';
+import { createClient } from '@supabase/supabase-js';
 
 import Home from './components/Home';
 import groupBy from './utils/groupBy';
 
 export default async function Root() {
-  const cookieStore = cookies();
-  const supabase = createClient(cookieStore);
+  const supabaseUrl = process.env.SUPABASE_URL;
+  const supabaseKey = process.env.SUPABASE_ANON_KEY;
+
+  if (!supabaseUrl || !supabaseKey) {
+    throw new Error('Env variables not found');
+  }
+
+  const supabase = createClient(supabaseUrl, supabaseKey);
   
   let { data: showtimes, error } = await supabase
     .from('showtimes')
