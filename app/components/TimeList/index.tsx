@@ -24,6 +24,7 @@ export default function TimeList ({ showtimes }: Props) {
   return (
     <div
       className={`
+        md:hidden
         flex
         flex-col
       `}
