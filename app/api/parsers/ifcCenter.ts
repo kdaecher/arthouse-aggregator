@@ -13,11 +13,16 @@ export default function parse(html: string): Showtime[] {
 
   const showtimes: Showtime[] = [];
 
-
   let currentDay = DateTime.local({ zone: 'America/New_York' }).set({ hour: 0, minute: 0, second: 0, millisecond: 0 });
-
+  let currentDayString = currentDay.toFormat('ccc LLL d');
 
   days.each((_, dayNode) => {
+    const day = $(dayNode).find('h3').first().text();
+
+    while (day !== currentDayString) {
+      currentDay = currentDay.plus({ days: 1 });
+      currentDayString = currentDay.toFormat('ccc LLL d');
+    }
     const moviesPerDay = $(dayNode).find('.details');
 
     moviesPerDay.each((_, movieNode) => {
@@ -44,7 +49,6 @@ export default function parse(html: string): Showtime[] {
         }
       });
     });
-    currentDay = currentDay.plus({ days: 1 });
   });
 
   return showtimes;

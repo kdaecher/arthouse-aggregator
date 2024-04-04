@@ -21,7 +21,7 @@ export default function parse(html: string): Showtime[] {
 
     if (!day.trim()) {
       // continue 
-      return true;
+      return;
     }
 
     while (!day.toLowerCase().includes(currentDayString.toLowerCase())) {

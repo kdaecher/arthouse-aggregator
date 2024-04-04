@@ -42,7 +42,7 @@ export default function parse(html: string): Showtime[] {
       });
       
       currentDay = currentDay.plus({ days: 1 });
-      currentDayNum++;
+      currentDayNum = currentDay.day;
     }
   });
 

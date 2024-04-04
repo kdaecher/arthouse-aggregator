@@ -5,7 +5,7 @@ import Theater from '@/app/types/Theater';
 
 export const dynamic = 'force-dynamic'; 
 
-const THEATER = Theater.QUAD_CINEMA;
+const THEATER = Theater.CINEMA_VILLAGE;
 
 export async function GET() {
   let showtimes;
