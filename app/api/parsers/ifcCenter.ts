@@ -19,6 +19,10 @@ export default function parse(html: string): Showtime[] {
   days.each((_, dayNode) => {
     const day = $(dayNode).find('h3').first().text();
 
+    if (day === 'Coming Soon') {
+      return;
+    }
+
     while (day !== currentDayString) {
       currentDay = currentDay.plus({ days: 1 });
       currentDayString = currentDay.toFormat('ccc LLL d');
