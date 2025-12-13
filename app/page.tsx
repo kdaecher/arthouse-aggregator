@@ -7,12 +7,23 @@ import groupBy from './utils/groupBy';
 export const revalidate = 0;
 
 export default async function Root() {
+  const useApi = process.env.DEV_USE_API === 'true';
+
+  const showtimes = useApi
+    ? await fetchShowtimesFromApi()
+    : await fetchShowtimesFromDb();
+        
+  return (
+    <Home showtimes={groupBy(showtimes, 'day')} />
+  );
+}
+async function fetchShowtimesFromDb() {
   const supabaseUrl = process.env.SUPABASE_URL;
   const supabaseKey = process.env.SUPABASE_ANON_KEY;
 
   if (!supabaseUrl || !supabaseKey) {
-    console.error('Env variables not found');
-    throw new Error('Env variables not found');
+    console.error('Supabase env variables not found');
+    throw new Error('Supabase env variables not found');
   }
 
   const supabase = createClient(supabaseUrl, supabaseKey);
@@ -30,8 +41,27 @@ export default async function Root() {
     console.error(`No showtimes found`);
     throw new Error('No showtimes found');
   }
-        
-  return (
-    <Home showtimes={groupBy(showtimes, 'day')} />
-  );
+
+  return showtimes;
+}
+
+async function fetchShowtimesFromApi() {
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL;
+  const response = await fetch(`${baseUrl}/api/scrape`, {
+    cache: 'no-store'
+  });
+
+  if (!response.ok) {
+    console.error('Failed to fetch showtimes from scraper API');
+    throw new Error('Failed to fetch showtimes from scraper API');
+  }
+
+  const showtimes = await response.json();
+
+  if (!showtimes || showtimes.length === 0) {
+    console.error(`No showtimes found`);
+    throw new Error('No showtimes found');
+  }
+
+  return showtimes;
 }
