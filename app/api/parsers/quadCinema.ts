@@ -31,7 +31,7 @@ export default function parse(html: string): Showtime[] {
       const movie = $(titleNode).text();
       const link = $(titleNode).attr('href');
 
-      const times = $(movieNode).find('.showtimes-list').find('a');
+      const times = $(movieNode).find('.showtimes-list').find('li[class*="time"]').find('a');
 
       times.each((_, timeNode) => {
         let time = $(timeNode).text();

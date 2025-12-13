@@ -1,3 +1,4 @@
+'use client';
 import React, { useState } from 'react';
 
 import Showtime from '@/app/types/Showtime';
