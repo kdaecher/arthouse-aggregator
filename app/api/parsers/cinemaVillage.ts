@@ -6,6 +6,7 @@ import Theater from '@/app/types/Theater';
 
 const theater = Theater.CINEMA_VILLAGE;
 
+// broken
 export default function parse(html: string): Showtime[] {
   const $ = load(html);
 
@@ -36,11 +37,11 @@ export default function parse(html: string): Showtime[] {
               movie,
               time,
               link: `https://www.cinemavillage.com${link}`
-            });  
+            });
           }
         });
       });
-      
+
       currentDay = currentDay.plus({ days: 1 });
       currentDayNum = currentDay.day;
     }

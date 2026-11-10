@@ -9,27 +9,27 @@ const theater = Theater.METROGRAPH;
 export default function parse(html: string): Showtime[] {
   const $ = load(html);
 
-  const days = $('.calendar-list-day')
+  const days = $('.day-selector-day')
 
   const showtimes: Showtime[] = [];
 
   let currentDay = DateTime.local({ zone: 'America/New_York' }).set({ hour: 0, minute: 0, second: 0, millisecond: 0 });
-  let currentDayString = currentDay.toLocaleString({ weekday: 'long' });
+  let currentDayString = currentDay.toFormat('yyyy-MM-dd');
 
   days.filter((_, dayNode) => $(dayNode).attr('style') !== "display: none;").each((_, dayNode) => {
-    const day = $(dayNode).find('.date').text();
+    const day = $(dayNode).attr('data-vars-ga-label')
 
-    if (!day.trim()) {
-      // continue 
+    if (!day?.trim()) {
+      // continue
       return;
     }
 
     while (!day.toLowerCase().includes(currentDayString.toLowerCase())) {
       currentDay = currentDay.plus({ days: 1 });
-      currentDayString = currentDay.toLocaleString({ weekday: 'long' });
+      currentDayString = currentDay.toFormat('yyyy-MM-dd');
     };
 
-    const moviesPerDay = $(dayNode).find($('.calendar-list-showtimes'));
+    const moviesPerDay = $(`#calendar-list-day-${currentDayString}`).children();
     moviesPerDay.each((_, movieNode) => {
       const titleNode = $(movieNode).find('.title');
       const movie = $(titleNode).text();
@@ -38,7 +38,7 @@ export default function parse(html: string): Showtime[] {
       const times = $(movieNode).find('a[title="Buy Tickets"]');
       times.each((_, timeNode ) => {
         const time = $(timeNode).text();
-  
+
         if (day && movie && time && link) {
           showtimes.push({
             day: currentDay.toMillis(),

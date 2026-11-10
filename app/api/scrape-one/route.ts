@@ -3,17 +3,18 @@ import { NextResponse } from 'next/server';
 import getData from '../getData';
 import Theater from '@/app/types/Theater';
 
-export const dynamic = 'force-dynamic'; 
+export const dynamic = 'force-dynamic';
 
-const THEATER = Theater.IFC_CENTER;
+const THEATER = Theater.CINEMA_VILLAGE;
 
 export async function GET() {
   let showtimes;
-  
+
   try {
     showtimes = await getData(THEATER);
     return NextResponse.json(showtimes);
-  } catch {
-    return NextResponse.json({ error: 'Failed to fetch showtime data' }, { status: 500 });
+  } catch (error) {
+    console.error(error)
+    return NextResponse.json({ error }, { status: 500 });
   }
 }

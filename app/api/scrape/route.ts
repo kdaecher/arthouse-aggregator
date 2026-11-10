@@ -5,7 +5,7 @@ import getData from '../getData';
 
 const __DEV__ = process.env.NODE_ENV === 'development';
 
-export const dynamic = 'force-dynamic'; 
+export const dynamic = 'force-dynamic';
 
 export async function GET() {
   const supabaseUrl = __DEV__ ?
@@ -18,26 +18,27 @@ export async function GET() {
   if (!supabaseUrl || !supabaseKey) {
     return NextResponse.json({ error: 'Env variables not found' }, { status: 500 });
   }
-  
+
   const supabase = createClient(supabaseUrl, supabaseKey);
 
   let showtimes;
-  
+
   try {
     showtimes = await getData();
-  } catch {
-    return NextResponse.json({ error: 'Failed to fetch showtime data' }, { status: 500 });
+  } catch (error) {
+    console.error(error)
+    return NextResponse.json({ error }, { status: 500 });
   }
-  
+
   const { error: deleteError } = await supabase
     .from('showtimes')
     .delete()
     .neq('day', 0);
-    
+
   if (deleteError) {
     return NextResponse.json({ error: deleteError }, { status: 500 } );
   }
-  
+
   const { data, error: insertError } = await supabase
     .from('showtimes')
     .insert(showtimes)

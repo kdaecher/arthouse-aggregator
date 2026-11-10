@@ -22,11 +22,11 @@ const map = [
     url: 'https://www.ifccenter.com/',
     parser: parsers.ifcCenter,
   },
-  {
-    theater: Theater.CINEMA_VILLAGE,
-    url: 'https://www.cinemavillage.com/calendar/',
-    parser: parsers.cinemaVillage,
-  },
+  // {
+  //   theater: Theater.CINEMA_VILLAGE,
+  //   url: 'https://www.cinemavillage.com/calendar',
+  //   parser: parsers.cinemaVillage,
+  // },
   {
     theater: Theater.QUAD_CINEMA,
     url: 'https://quadcinema.com/all',
