@@ -6,6 +6,14 @@ import Theater from '@/app/types/Theater';
 
 const theater = Theater.IFC_CENTER;
 
+const zone = 'America/New_York'
+
+function parseDayHeading(heading: string, today: DateTime): DateTime | undefined {
+  return [today.year, today.year + 1]
+    .map(year => DateTime.fromFormat(`${heading} ${year}`, 'ccc LLL d yyyy', { zone }))
+    .find(day => day.isValid && day >= today)
+}
+
 export default function parse(html: string): Showtime[] {
   const $ = load(html);
 
@@ -13,20 +21,16 @@ export default function parse(html: string): Showtime[] {
 
   const showtimes: Showtime[] = [];
 
-  let currentDay = DateTime.local({ zone: 'America/New_York' }).set({ hour: 0, minute: 0, second: 0, millisecond: 0 });
-  let currentDayString = currentDay.toFormat('ccc LLL d');
+  const today = DateTime.local({ zone }).startOf('day')
 
   days.each((_, dayNode) => {
-    const day = $(dayNode).find('h3').first().text();
+    const heading = $(dayNode).find('h3').first().text().trim()
+    const currentDay = parseDayHeading(heading, today)
 
-    if (day === 'Coming Soon') {
+    if (!currentDay) {
       return;
     }
 
-    while (day !== currentDayString) {
-      currentDay = currentDay.plus({ days: 1 });
-      currentDayString = currentDay.toFormat('ccc LLL d');
-    }
     const moviesPerDay = $(dayNode).find('.details');
 
     moviesPerDay.each((_, movieNode) => {
@@ -35,7 +39,7 @@ export default function parse(html: string): Showtime[] {
       const link = $(titleNode).find('a').attr('href');
 
       const times = $(movieNode).find('.times').find('li');
-      
+
 
       times.each((_, timeNode) => {
         let time = $(timeNode).text().trim();

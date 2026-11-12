@@ -17,7 +17,7 @@ export default function parse(html: string): Showtime[] {
   let currentDayNum = currentDay.day;
 
 
-  days.each((_, dayNode) => {    
+  days.each((_, dayNode) => {
     if ($(dayNode).attr('name') === currentDayNum.toString()) {
       const moviesPerDay = $(dayNode).find('.calendar_event');
 
