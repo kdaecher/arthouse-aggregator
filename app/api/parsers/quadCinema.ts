@@ -6,6 +6,14 @@ import Theater from '@/app/types/Theater';
 
 const theater = Theater.QUAD_CINEMA;
 
+const zone = 'America/New_York';
+
+function parseDayHeading(heading: string, today: DateTime): DateTime | undefined {
+  return [today.year, today.year + 1]
+    .map(year => DateTime.fromFormat(`${heading} ${year}`, 'ccc LLLL d yyyy', { zone }))
+    .find(day => day.isValid && day >= today);
+}
+
 export default function parse(html: string): Showtime[] {
   const $ = load(html);
 
@@ -13,16 +21,16 @@ export default function parse(html: string): Showtime[] {
 
   const showtimes: Showtime[] = [];
 
-  let currentDay = DateTime.local({ zone: 'America/New_York' }).set({ hour: 0, minute: 0, second: 0, millisecond: 0 });
-  let currentDayString = currentDay.toFormat('ccc LLLL d');
+  const today = DateTime.local({ zone }).startOf('day');
 
   days.each((_, dayNode) => {
-    const day = $(dayNode).find('h1').text();
+    const heading = $(dayNode).find('h1').text().trim();
+    const currentDay = parseDayHeading(heading, today);
 
-    while (day !== currentDayString) {
-      currentDay = currentDay.plus({ days: 1 });
-      currentDayString = currentDay.toFormat('ccc LLLL d');
+    if (!currentDay) {
+      return;
     }
+
     const moviesPerDay = $(dayNode).find('.single-listing');
 
     moviesPerDay.each((_, movieNode) => {
@@ -37,7 +45,7 @@ export default function parse(html: string): Showtime[] {
         let time = $(timeNode).text();
         time = time.replace('.', ':');
 
-        if (day && movie && time && link) {
+        if (movie && time && link) {
           showtimes.push({
             day: currentDay.toMillis(),
             theater,
@@ -46,7 +54,7 @@ export default function parse(html: string): Showtime[] {
             link,
           });
         }
-      });      
+      });
     });
   });
 

@@ -12,7 +12,7 @@ export default function parse(html: string ): Showtime[] {
   const days = $('[aria-label="This week\'s showtimes at Film Forum"]').find('a');
   const dayTabLinkMap: Array<{ day: DateTime, tabLink: string }> = [];
 
-  let currentDay = DateTime.local({ zone: 'America/New_York' }).set({ hour: 0, minute: 0, second: 0, millisecond: 0 });
+  let currentDay = DateTime.local({ zone: 'America/New_York' }).startOf('day');
   let currentDayAbbr = currentDay.toLocaleString({ weekday: 'short' });
 
   days.each((_, dayNode) => {

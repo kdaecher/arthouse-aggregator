@@ -14,7 +14,7 @@ export default function parse(html: string): Showtime[] {
 
   const showtimes: Showtime[] = [];
 
-  let currentDay = DateTime.local({ zone: 'America/New_York' }).set({ hour: 0, minute: 0, second: 0, millisecond: 0 });
+  let currentDay = DateTime.local({ zone: 'America/New_York' }).startOf('day');
   let currentDayNum = currentDay.day;
 
   days.each((_, dayNode) => {

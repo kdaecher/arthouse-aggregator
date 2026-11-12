@@ -6,12 +6,12 @@ import Theater from '@/app/types/Theater';
 
 const theater = Theater.IFC_CENTER;
 
-const zone = 'America/New_York'
+const zone = 'America/New_York';
 
 function parseDayHeading(heading: string, today: DateTime): DateTime | undefined {
   return [today.year, today.year + 1]
     .map(year => DateTime.fromFormat(`${heading} ${year}`, 'ccc LLL d yyyy', { zone }))
-    .find(day => day.isValid && day >= today)
+    .find(day => day.isValid && day >= today);
 }
 
 export default function parse(html: string): Showtime[] {
@@ -21,11 +21,11 @@ export default function parse(html: string): Showtime[] {
 
   const showtimes: Showtime[] = [];
 
-  const today = DateTime.local({ zone }).startOf('day')
+  const today = DateTime.local({ zone }).startOf('day');
 
   days.each((_, dayNode) => {
-    const heading = $(dayNode).find('h3').first().text().trim()
-    const currentDay = parseDayHeading(heading, today)
+    const heading = $(dayNode).find('h3').first().text().trim();
+    const currentDay = parseDayHeading(heading, today);
 
     if (!currentDay) {
       return;
