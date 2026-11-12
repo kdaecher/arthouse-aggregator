@@ -26,7 +26,7 @@ export async function GET() {
   try {
     showtimes = await getData();
   } catch (error) {
-    console.error(error)
+    console.error(error);
     return NextResponse.json({ error }, { status: 500 });
   }
 
